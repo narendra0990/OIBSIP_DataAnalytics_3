@@ -1,0 +1,1201 @@
+Customer_ID,Full_Name,Age,Gender,Join_Date,Annual_Income,Department,Performance_Score
+CUST_1000,Daniel Jones,32,Male,2020-01-01,54474.24,Engineering,3.0
+CUST_1001,John Jones,26,Female,2020-01-02,27561.28,Sales,4.0
+CUST_1002,Emma Johnson,56,Female,2020-01-03,84081.07,Operations,4.0
+CUST_1003,David Jones,59,Female,2020-01-05,100384.0,Sales,2.0
+CUST_1004,Sarah Jones,65,Female,2020-01-06,65500.39,Operations,3.0
+CUST_1005,Emily Smith,29,Male,2020-01-07,24855.0,Sales,2.0
+CUST_1006,Michael Smith,49,Female,2020-01-09,57054.24,Engineering,3.0
+CUST_1007,David Brown,42,Female,2020-01-10,68788.47,Sales,3.0
+CUST_1008,Daniel Jones,56,Male,2020-01-11,44757.0,Human Resources,5.0
+CUST_1009,Emma Brown,35,Male,2022-03-21,79584.31,Operations,1.0
+CUST_1010,Sarah Brown,32,Male,2020-01-14,42313.47,Sales,2.0
+CUST_1011,Sarah Garcia,49,Male,2020-01-15,64452.43,Marketing,1.0
+CUST_1012,Michael Rodriguez,23,Male,2020-01-17,59292.0,Marketing,3.0
+CUST_1013,Emily Miller,61,Female,2020-01-18,80396.0,Sales,4.0
+CUST_1014,Emma Jones,60,Male,2020-01-19,64643.27,Operations,4.0
+CUST_1015,Emma Smith,69,Female,2020-01-21,60087.71,Engineering,4.0
+CUST_1016,James Smith,52,Male,2020-01-22,44928.0,Operations,4.0
+CUST_1017,Laura Rodriguez,51,Male,2020-01-23,65869.23,Sales,3.0
+CUST_1018,James Smith,55,Female,2020-01-25,58495.0,Sales,2.0
+CUST_1019,Sarah Smith,73,Female,2020-01-26,43236.74,Sales,3.0
+CUST_1020,Emma Johnson,71,Male,2020-01-27,68987.28,Engineering,4.0
+CUST_1021,Emma Garcia,74,Male,2020-01-29,64452.43,Operations,4.0
+CUST_1022,David Davis,22,Male,2020-01-30,56539.82,Human Resources,4.0
+CUST_1023,Sarah Garcia,35,Female,2020-01-31,88289.23,Human Resources,3.0
+CUST_1024,Jessica Garcia,33,Female,2020-02-02,71599.36,Sales,3.0
+CUST_1025,John Smith,25,Male,2020-02-03,32903.65,Engineering,5.0
+CUST_1026,Daniel Garcia,42,Female,2020-02-04,98434.85,Operations,1.0
+CUST_1027,Michael Jones,49,Female,2022-03-21,84174.7,Operations,4.0
+CUST_1028,John Davis,43,Male,2020-02-07,90045.78,Marketing,3.0
+CUST_1029,David Garcia,69,Other,2020-02-08,75013.0,Marketing,1.0
+CUST_1030,Laura Rodriguez,39,Female,2020-02-10,20000.0,Marketing,4.0
+CUST_1031,Daniel Smith,48,Male,2020-02-11,64452.43,Operations,3.0
+CUST_1032,Michael Garcia,60,Female,2020-02-13,66519.69,Engineering,4.0
+CUST_1033,Michael Garcia,44,Male,2020-02-14,73830.48,Sales,4.0
+CUST_1034,John Jones,73,Male,2020-02-15,78509.6,Marketing,3.0
+CUST_1035,Emily Jones,74,Female,2020-02-17,113407.0,Sales,4.0
+CUST_1036,Laura Wilson,29,Male,2020-02-18,64452.43,Sales,3.0
+CUST_1037,Emily Brown,70,Female,2020-02-19,51990.0,Marketing,3.0
+CUST_1038,Michael Davis,45,Female,2022-03-21,43724.14,Marketing,4.0
+CUST_1039,Michael Williams,23,Female,2022-03-21,38251.44,Human Resources,3.0
+CUST_1040,Emma Jones,37,Female,2020-02-23,38712.0,Sales,1.0
+CUST_1041,David Miller,22,Male,2020-02-25,20000.0,Marketing,5.0
+CUST_1042,Laura Wilson,40,Male,2020-02-26,64452.43,Sales,3.0
+CUST_1043,Jessica Smith,26,Female,2020-02-27,114695.16,Operations,4.0
+CUST_1044,Laura Garcia,46,Male,2020-02-29,64452.43,Marketing,4.0
+CUST_1045,James Rodriguez,33,Male,2022-03-21,43690.8,Engineering,3.0
+CUST_1046,Sarah Johnson,71,Female,2020-03-02,58196.14,Operations,3.0
+CUST_2047,Michael Smith,63,Female,2020-03-04,95833.55,Marketing,3.0
+CUST_1048,Emily Brown,39,Male,2020-03-05,75808.67,Sales,3.0
+CUST_1049,James Rodriguez,44,Female,2020-03-06,68363.0,Human Resources,3.0
+CUST_1050,James Wilson,37,Female,2020-03-08,58582.0,Human Resources,4.0
+CUST_1051,Daniel Johnson,68,Male,2020-09-03,94458.0,Marketing,2.0
+CUST_1052,Emma Jones,31,Male,2020-03-10,38173.73,Engineering,3.0
+CUST_1053,Emily Garcia,56,Female,2020-03-12,77021.88,Engineering,5.0
+CUST_1054,Sarah Miller,54,Male,2020-03-13,73623.0,Sales,3.0
+CUST_1055,David Johnson,67,Male,2020-03-14,66084.3,Operations,4.0
+CUST_1056,Emma Smith,51,Female,2020-03-16,84693.0,Operations,4.0
+CUST_1057,Laura Johnson,44,Female,2020-03-17,65843.0,Marketing,3.0
+CUST_1058,Daniel Rodriguez,71,Male,2020-03-18,51637.0,Human Resources,3.0
+CUST_1059,James Garcia,57,Male,2020-03-20,67312.78,Engineering,4.0
+CUST_1060,Emma Rodriguez,50,Male,2020-03-21,25197.0,Engineering,3.0
+CUST_1061,Sarah Miller,48,Female,2020-03-23,80317.87,Engineering,3.0
+CUST_1062,Emily Brown,71,Male,2020-03-24,86705.73,Human Resources,3.0
+CUST_1063,David Williams,61,Female,2020-03-25,48585.0,Operations,4.0
+CUST_1064,John Garcia,51,Female,2020-03-27,42637.22,Marketing,3.0
+CUST_1065,David Williams,67,Male,2020-03-28,49506.0,Human Resources,2.0
+CUST_1066,Emma Davis,24,Other,2020-03-29,63424.43,Operations,3.0
+CUST_1067,Daniel Smith,66,Female,2020-03-31,70397.15,Sales,3.0
+CUST_1068,James Johnson,71,Female,2020-04-01,105387.0,Engineering,3.0
+CUST_1069,David Jones,44,Male,2020-04-02,102227.28,Engineering,3.0
+CUST_1070,Laura Garcia,63,Female,2020-04-04,85788.57,Human Resources,1.0
+CUST_1071,Daniel Davis,73,Female,2020-05-04,68031.52,Engineering,3.0
+CUST_1072,Jessica Miller,24,Female,2020-04-06,41826.9,Operations,3.0
+CUST_1073,James Miller,71,Male,2020-04-08,106991.0,Sales,3.0
+CUST_1074,Sarah Johnson,44,Female,2020-04-09,58808.95,Sales,3.0
+CUST_1075,David Brown,20,Male,2020-04-10,72034.0,Engineering,3.0
+CUST_1076,Sarah Williams,55,Male,2020-12-04,80684.0,Engineering,5.0
+CUST_1077,Daniel Garcia,37,Male,2020-04-13,66539.9,Engineering,2.0
+CUST_1078,Jessica Jones,44,Female,2020-04-14,93777.0,Operations,4.0
+CUST_1079,John Garcia,66,Male,2022-03-21,76384.8,Sales,5.0
+CUST_1080,Michael Miller,61,Female,2020-04-17,89715.96,Operations,3.0
+CUST_1081,Michael Davis,61,Female,2020-04-18,76183.64,Operations,4.0
+CUST_2082,Daniel Rodriguez,47,Male,2020-04-20,64052.51,Sales,3.0
+CUST_1083,David Garcia,34,Female,2020-04-21,66855.0,Human Resources,3.0
+CUST_1084,Emma Wilson,27,Male,2022-03-21,63443.99,Marketing,3.0
+CUST_1085,Laura Smith,52,Male,2020-04-24,32892.85,Human Resources,1.0
+CUST_1086,David Williams,37,Female,2020-04-25,39980.0,Operations,3.0
+CUST_1087,John Brown,35,Female,2020-04-26,83514.0,Engineering,3.0
+CUST_1088,Laura Williams,62,Female,2020-04-28,33515.72,Sales,3.0
+CUST_1089,Emma Johnson,61,Female,2020-04-29,54894.0,Operations,5.0
+CUST_1090,James Wilson,44,Male,2020-05-01,38747.41,Marketing,2.0
+CUST_1091,David Davis,66,Male,2020-05-02,53557.0,Marketing,3.0
+CUST_1092,Sarah Rodriguez,53,Female,2020-05-03,61118.27,Marketing,3.0
+CUST_2093,James Brown,40,Male,2020-05-05,54844.0,Engineering,3.0
+CUST_1094,Emily Miller,49,Male,2020-05-06,29290.89,Human Resources,4.0
+CUST_1095,Emma Wilson,27,Female,2020-05-07,60361.74,Human Resources,3.0
+CUST_1096,Emma Miller,28,Male,2020-05-09,41027.6,Operations,1.0
+CUST_1097,John Rodriguez,55,Male,2020-05-10,49086.07,Marketing,4.0
+CUST_1098,Sarah Jones,23,Female,2020-05-11,83513.0,Sales,4.0
+CUST_1099,James Brown,58,Female,2020-05-13,88884.82,Operations,3.0
+CUST_1100,Michael Davis,64,Female,2020-05-14,32226.0,Operations,3.0
+CUST_1101,Jessica Garcia,51,Female,2020-05-15,104217.0,Operations,2.0
+CUST_1102,Michael Jones,53,Male,2020-05-17,52248.0,Marketing,2.0
+CUST_1103,Emma Brown,54,Female,2020-05-18,49974.75,Human Resources,3.0
+CUST_1104,Emily Brown,34,Female,2020-05-19,64452.43,Sales,3.0
+CUST_1105,Emma Garcia,57,Male,2022-03-21,66398.0,Engineering,5.0
+CUST_1106,Jessica Williams,57,Male,2020-05-22,114539.0,Operations,3.0
+CUST_1107,Emma Jones,71,Female,2020-05-23,26508.51,Engineering,2.0
+CUST_1108,Jessica Jones,29,Female,2020-05-25,20000.0,Marketing,3.0
+CUST_1109,Jessica Garcia,38,Female,2020-05-26,71712.76,Marketing,3.0
+CUST_1110,Daniel Jones,57,Female,2020-05-27,79233.48,Engineering,3.0
+CUST_2111,Emma Miller,36,Female,2020-05-29,66316.81,Marketing,3.0
+CUST_1112,Emily Rodriguez,20,Female,2020-05-30,79894.99,Operations,3.0
+CUST_1113,Emily Smith,35,Female,2020-05-31,36718.48,Human Resources,3.0
+CUST_1114,Daniel Davis,70,Female,2020-06-02,41378.26,Engineering,3.0
+CUST_1115,Emily Williams,68,Female,2020-06-03,68098.95,Operations,1.0
+CUST_1116,Laura Jones,36,Male,2020-06-04,108952.0,Human Resources,1.0
+CUST_1117,Emma Davis,64,Female,2020-06-06,79017.02,Sales,3.0
+CUST_1118,Emily Brown,23,Female,2020-06-07,80180.0,Sales,2.0
+CUST_1119,Laura Garcia,33,Female,2020-08-06,38158.09,Sales,3.0
+CUST_1120,Sarah Johnson,25,Female,2020-06-10,75560.13,Marketing,4.0
+CUST_1121,Michael Williams,65,Male,2020-06-11,35446.27,Operations,4.0
+CUST_1122,John Williams,35,Male,2020-06-13,109194.0,Operations,3.0
+CUST_1123,Jessica Garcia,69,Male,2020-06-14,39701.82,Operations,4.0
+CUST_1124,Unknown Client,65,Female,2020-06-15,45088.0,Sales,3.0
+CUST_1125,David Brown,60,Female,2020-06-17,28173.11,Human Resources,4.0
+CUST_1126,Michael Brown,56,Female,2020-06-18,67145.41,Engineering,3.0
+CUST_1127,Daniel Smith,66,Male,2020-06-19,66095.0,Operations,3.0
+CUST_1128,Daniel Smith,66,Female,2020-06-21,102831.03,Human Resources,3.0
+CUST_1129,Sarah Brown,29,Female,2020-06-22,84410.0,Engineering,2.0
+CUST_1130,John Rodriguez,62,Male,2020-06-23,45230.83,Sales,5.0
+CUST_1131,Jessica Smith,27,Female,2020-06-25,86834.89,Operations,2.0
+CUST_1132,John Miller,24,Female,2020-06-26,33912.0,Operations,3.0
+CUST_1133,Emily Brown,63,Female,2020-06-27,64452.43,Sales,3.0
+CUST_1134,Jessica Davis,72,Female,2020-06-29,67961.49,Engineering,1.0
+CUST_1135,James Wilson,18,Female,2020-06-30,36703.0,Marketing,2.0
+CUST_1136,David Rodriguez,66,Male,2022-03-21,91616.47,Marketing,1.0
+CUST_1137,Emily Wilson,53,Female,2020-03-07,121983.0,Operations,3.0
+CUST_1138,Sarah Williams,38,Male,2020-07-04,57637.0,Engineering,4.0
+CUST_1139,John Miller,44,Male,2020-05-07,48707.83,Sales,3.0
+CUST_1140,Jessica Smith,69,Female,2020-07-07,61760.26,Operations,2.0
+CUST_1141,Michael Jones,41,Male,2020-07-08,51065.69,Marketing,3.0
+CUST_1142,Michael Wilson,72,Female,2020-07-09,71543.26,Operations,5.0
+CUST_1143,Michael Wilson,42,Female,2020-07-11,31939.89,Marketing,3.0
+CUST_1144,Unknown Client,24,Female,2020-07-12,72962.66,Marketing,3.0
+CUST_1145,David Brown,59,Female,2020-07-13,64452.43,Human Resources,5.0
+CUST_1146,John Jones,34,Male,2020-07-15,20000.0,Operations,2.0
+CUST_1147,Emma Jones,46,Female,2020-07-16,35783.81,Human Resources,3.0
+CUST_1148,Emily Miller,47,Male,2020-07-17,53873.57,Engineering,3.0
+CUST_1149,Emma Brown,44,Male,2020-07-19,78547.0,Operations,5.0
+CUST_1150,Daniel Davis,50,Female,2022-03-21,87259.55,Marketing,5.0
+CUST_1151,Sarah Williams,24,Male,2020-07-22,85248.36,Marketing,4.0
+CUST_1152,John Garcia,44,Female,2022-03-21,22707.45,Operations,3.0
+CUST_1153,James Brown,28,Female,2020-07-24,48141.35,Marketing,3.0
+CUST_1154,Jessica Rodriguez,26,Female,2020-07-26,42492.08,Marketing,3.0
+CUST_1155,Jessica Rodriguez,44,Other,2020-07-27,63370.03,Human Resources,4.0
+CUST_1156,Emily Garcia,52,Male,2020-07-28,65457.0,Sales,5.0
+CUST_1157,James Brown,21,Female,2020-07-30,30769.32,Engineering,3.0
+CUST_1158,David Garcia,53,Female,2022-03-21,54011.14,Sales,3.0
+CUST_1159,Emma Miller,45,Female,2020-08-01,79512.96,Operations,2.0
+CUST_1160,Daniel Williams,74,Male,2020-08-03,49291.73,Operations,3.0
+CUST_1161,Daniel Garcia,30,Female,2020-08-04,59994.0,Sales,3.0
+CUST_1162,Emma Miller,40,Male,2020-08-05,107422.0,Engineering,3.0
+CUST_1163,Emma Rodriguez,36,Male,2020-08-07,114750.74,Marketing,3.0
+CUST_1164,Jessica Rodriguez,59,Female,2020-08-08,20000.0,Marketing,1.0
+CUST_1165,Emily Garcia,54,Female,2020-09-08,67847.44,Marketing,4.0
+CUST_1166,Emily Johnson,56,Female,2020-11-08,129677.08,Sales,4.0
+CUST_1167,Emma Rodriguez,44,Female,2020-08-12,76971.17,Sales,3.0
+CUST_1168,David Brown,33,Female,2020-08-13,65462.25,Sales,4.0
+CUST_1169,Sarah Smith,50,Male,2020-08-15,97817.0,Engineering,3.0
+CUST_1170,Daniel Miller,29,Male,2020-08-16,70452.0,Human Resources,3.0
+CUST_1171,Sarah Garcia,51,Male,2020-08-17,82728.43,Marketing,5.0
+CUST_1172,Emily Garcia,24,Female,2020-08-19,59742.39,Human Resources,3.0
+CUST_1173,Daniel Jones,28,Male,2020-08-20,70088.0,Operations,4.0
+CUST_1174,Emma Wilson,48,Male,2020-08-21,75666.0,Marketing,4.0
+CUST_1175,Laura Rodriguez,46,Female,2020-08-23,64452.43,Sales,4.0
+CUST_1176,David Wilson,44,Male,2020-08-24,54206.98,Sales,1.0
+CUST_1177,David Johnson,48,Male,2020-08-25,53527.52,Sales,2.0
+CUST_1178,David Williams,19,Female,2020-08-27,20000.0,Operations,3.0
+CUST_1179,Daniel Wilson,56,Male,2020-08-28,55321.22,Operations,4.0
+CUST_1180,David Garcia,32,Male,2020-08-30,88825.88,Marketing,4.0
+CUST_1181,John Williams,44,Male,2020-08-31,76580.61,Marketing,3.0
+CUST_1182,Michael Rodriguez,28,Female,2020-09-01,129677.08,Engineering,3.0
+CUST_1183,David Rodriguez,51,Female,2020-09-03,20000.0,Sales,3.0
+CUST_1184,James Smith,56,Male,2020-04-09,61439.48,Marketing,4.0
+CUST_1185,Sarah Jones,21,Female,2022-03-21,88094.0,Engineering,3.0
+CUST_1186,Emily Wilson,28,Male,2020-09-07,53027.54,Engineering,3.0
+CUST_1187,James Davis,46,Female,2020-09-08,28877.0,Human Resources,5.0
+CUST_1188,Jessica Davis,19,Male,2020-09-09,50262.32,Marketing,3.0
+CUST_1189,John Smith,33,Female,2020-09-11,73153.97,Human Resources,4.0
+CUST_1190,Laura Johnson,56,Female,2020-09-12,96060.93,Operations,3.0
+CUST_1191,Emma Rodriguez,30,Female,2020-09-13,58582.62,Sales,3.0
+CUST_1192,Daniel Miller,54,Male,2022-03-21,91372.31,Sales,4.0
+CUST_1193,John Smith,34,Male,2020-09-16,88601.05,Operations,1.0
+CUST_1194,Sarah Miller,38,Female,2020-09-17,64452.43,Marketing,3.0
+CUST_1195,Jessica Johnson,61,Male,2022-03-21,96267.7,Engineering,3.0
+CUST_1196,John Wilson,36,Female,2020-09-20,72377.82,Sales,4.0
+CUST_1197,David Jones,24,Female,2020-09-21,34832.92,Operations,3.0
+CUST_1198,Sarah Miller,55,Female,2020-09-23,109020.78,Operations,2.0
+CUST_2199,James Johnson,25,Male,2020-09-24,61860.61,Engineering,5.0
+CUST_1200,Emma Johnson,30,Female,2020-09-25,20000.0,Marketing,3.0
+CUST_1201,Michael Davis,54,Female,2020-09-27,47343.34,Operations,2.0
+CUST_1202,Jessica Garcia,19,Female,2020-09-28,41188.64,Sales,2.0
+CUST_1203,Laura Miller,58,Male,2020-09-29,47957.0,Marketing,5.0
+CUST_1204,Emma Williams,28,Male,2020-10-01,53870.36,Sales,2.0
+CUST_1205,Michael Smith,41,Male,2020-10-02,58565.27,Engineering,3.0
+CUST_1206,Daniel Jones,23,Male,2020-10-03,57625.0,Marketing,3.0
+CUST_1207,Emily Wilson,43,Female,2020-10-05,62562.87,Engineering,4.0
+CUST_1208,Emily Brown,24,Female,2020-06-10,79684.83,Sales,4.0
+CUST_1209,Jessica Garcia,74,Male,2020-10-07,46339.0,Marketing,3.0
+CUST_1210,Laura Jones,56,Female,2020-10-09,94525.01,Engineering,1.0
+CUST_1211,Jessica Brown,44,Male,2020-10-10,34370.41,Operations,4.0
+CUST_1212,James Garcia,23,Male,2020-10-12,64452.43,Sales,3.0
+CUST_1213,Emma Wilson,60,Male,2020-10-13,106081.78,Marketing,5.0
+CUST_1214,John Johnson,46,Male,2020-10-14,60566.09,Sales,3.0
+CUST_1215,James Garcia,60,Female,2020-10-16,69837.0,Sales,4.0
+CUST_1216,Michael Garcia,56,Male,2020-10-17,40801.0,Engineering,1.0
+CUST_1217,John Wilson,19,Female,2020-10-18,52205.46,Marketing,4.0
+CUST_1218,Emily Williams,44,Male,2020-10-20,104191.96,Engineering,3.0
+CUST_1219,Jessica Davis,21,Female,2020-10-21,83712.0,Human Resources,3.0
+CUST_1220,Emily Davis,23,Male,2020-10-22,75464.0,Sales,2.0
+CUST_1221,James Johnson,66,Male,2020-10-24,20000.0,Human Resources,2.0
+CUST_1222,Michael Jones,74,Male,2020-10-25,47088.18,Operations,2.0
+CUST_1223,Michael Garcia,54,Male,2020-10-26,108474.8,Operations,3.0
+CUST_1224,Emma Garcia,45,Male,2020-10-28,75271.0,Operations,4.0
+CUST_1225,Laura Rodriguez,47,Female,2020-10-29,78390.0,Marketing,3.0
+CUST_1226,Emily Jones,24,Female,2020-10-30,64452.43,Engineering,4.0
+CUST_1227,David Garcia,26,Female,2022-03-21,49675.0,Marketing,2.0
+CUST_1228,Daniel Rodriguez,42,Female,2020-11-02,73313.54,Operations,3.0
+CUST_1229,Laura Johnson,50,Male,2022-03-21,26744.65,Human Resources,3.0
+CUST_1230,Emma Brown,18,Male,2020-11-05,24864.0,Marketing,5.0
+CUST_1231,Jessica Johnson,68,Female,2020-11-06,46618.0,Sales,4.0
+CUST_1232,Daniel Williams,23,Female,2020-11-07,69804.11,Marketing,3.0
+CUST_1233,Michael Johnson,35,Female,2020-11-09,25758.17,Human Resources,4.0
+CUST_1234,Laura Miller,27,Female,2020-11-10,68176.0,Human Resources,2.0
+CUST_1235,John Smith,45,Male,2020-11-11,40136.02,Operations,3.0
+CUST_1236,Daniel Garcia,28,Male,2020-11-13,43504.36,Operations,1.0
+CUST_1237,David Jones,50,Male,2020-11-14,97489.71,Engineering,3.0
+CUST_1238,Emily Miller,18,Male,2020-11-15,65932.0,Operations,2.0
+CUST_1239,Jessica Williams,30,Male,2020-11-17,42404.87,Marketing,4.0
+CUST_1240,James Davis,54,Male,2020-11-18,69671.0,Human Resources,3.0
+CUST_1241,John Davis,37,Female,2020-11-20,129677.08,Marketing,3.0
+CUST_1242,David Jones,18,Female,2020-11-21,74558.26,Human Resources,3.0
+CUST_1243,Sarah Brown,44,Female,2020-11-22,92682.95,Engineering,2.0
+CUST_1244,Jessica Wilson,20,Female,2022-03-21,81543.0,Human Resources,4.0
+CUST_1245,Daniel Jones,35,Male,2022-03-21,64452.43,Marketing,4.0
+CUST_1246,James Williams,58,Male,2020-11-26,20000.0,Sales,5.0
+CUST_1247,John Brown,31,Female,2020-11-28,68174.0,Marketing,3.0
+CUST_1248,James Brown,48,Male,2020-11-29,31412.48,Sales,4.0
+CUST_1249,Sarah Wilson,44,Male,2020-11-30,60669.46,Human Resources,4.0
+CUST_1250,David Williams,34,Male,2020-02-12,65038.6,Operations,2.0
+CUST_1251,James Brown,44,Male,2020-12-03,121996.14,Engineering,2.0
+CUST_1252,Jessica Johnson,63,Female,2020-12-04,63506.0,Operations,1.0
+CUST_1253,Jessica Williams,46,Male,2020-12-06,63039.0,Engineering,3.0
+CUST_2254,James Johnson,53,Female,2020-12-07,64452.43,Engineering,3.0
+CUST_2255,James Jones,54,Female,2020-12-08,63679.46,Engineering,5.0
+CUST_1256,Laura Johnson,43,Male,2020-10-12,110778.68,Engineering,3.0
+CUST_1257,Jessica Williams,70,Male,2020-12-11,81742.11,Marketing,4.0
+CUST_1258,Emma Jones,34,Male,2022-03-21,85712.58,Operations,4.0
+CUST_1259,Laura Wilson,39,Male,2020-12-14,20000.0,Human Resources,2.0
+CUST_1260,John Jones,44,Female,2020-12-15,114630.32,Operations,1.0
+CUST_1261,Michael Brown,19,Female,2020-12-16,48588.53,Sales,3.0
+CUST_1262,Sarah Rodriguez,72,Female,2020-12-18,64756.75,Operations,4.0
+CUST_1263,Michael Johnson,39,Male,2020-12-19,48682.4,Operations,5.0
+CUST_1264,Unknown Client,22,Female,2020-12-20,39393.72,Sales,3.0
+CUST_1265,Daniel Miller,21,Female,2020-12-22,34945.79,Human Resources,4.0
+CUST_1266,John Jones,53,Female,2020-12-23,67581.04,Marketing,3.0
+CUST_1267,Michael Smith,23,Female,2020-12-24,20000.0,Human Resources,4.0
+CUST_1268,Emily Johnson,69,Female,2020-12-26,58929.94,Marketing,3.0
+CUST_1269,Sarah Williams,38,Female,2020-12-27,91444.22,Marketing,1.0
+CUST_1270,Laura Garcia,30,Female,2020-12-29,80798.56,Human Resources,1.0
+CUST_1271,Daniel Miller,71,Male,2020-12-30,75810.88,Sales,1.0
+CUST_1272,James Brown,54,Female,2020-12-31,42615.0,Sales,3.0
+CUST_1273,John Garcia,72,Male,2021-02-01,25347.62,Marketing,3.0
+CUST_1274,Daniel Davis,42,Male,2021-01-03,91045.0,Sales,2.0
+CUST_1275,Michael Brown,44,Other,2021-04-01,53776.0,Engineering,3.0
+CUST_1276,Emma Rodriguez,72,Female,2021-01-06,62923.04,Operations,3.0
+CUST_1277,Jessica Jones,56,Male,2021-01-07,60060.0,Operations,4.0
+CUST_1278,Michael Rodriguez,37,Male,2021-01-08,81809.82,Human Resources,3.0
+CUST_1279,David Jones,50,Male,2021-10-01,111083.0,Marketing,4.0
+CUST_1280,Emily Brown,31,Female,2021-01-11,101559.35,Human Resources,3.0
+CUST_1281,John Davis,73,Female,2021-01-12,20000.0,Human Resources,3.0
+CUST_1282,James Williams,53,Female,2022-03-21,57287.0,Marketing,4.0
+CUST_1283,Sarah Williams,44,Female,2021-01-15,31331.41,Engineering,2.0
+CUST_1284,John Miller,38,Male,2021-01-16,88460.72,Engineering,3.0
+CUST_1285,Daniel Johnson,63,Female,2021-01-18,65099.59,Engineering,3.0
+CUST_1286,Laura Miller,33,Male,2021-01-19,80153.8,Marketing,3.0
+CUST_1287,Emily Jones,63,Female,2021-01-20,55146.89,Sales,3.0
+CUST_1288,Laura Williams,33,Female,2021-01-22,39015.71,Sales,3.0
+CUST_1289,Michael Brown,73,Female,2021-01-23,43293.0,Marketing,3.0
+CUST_1290,John Rodriguez,37,Male,2021-01-24,26675.0,Sales,2.0
+CUST_1291,Laura Garcia,46,Male,2021-01-26,33409.15,Operations,5.0
+CUST_1292,Emma Miller,45,Male,2021-01-27,64452.43,Marketing,3.0
+CUST_1293,Daniel Miller,25,Female,2021-01-28,39107.43,Human Resources,3.0
+CUST_1294,James Williams,41,Male,2021-01-30,37693.05,Sales,3.0
+CUST_1295,Michael Williams,20,Male,2022-03-21,74852.0,Human Resources,2.0
+CUST_1296,Emma Williams,42,Male,2021-02-01,73872.0,Marketing,2.0
+CUST_1297,James Brown,36,Female,2021-03-02,74825.0,Marketing,3.0
+CUST_1298,Daniel Rodriguez,50,Male,2021-04-02,94374.88,Marketing,2.0
+CUST_1299,Daniel Rodriguez,19,Female,2021-02-05,63041.55,Human Resources,3.0
+CUST_1300,Michael Brown,32,Female,2021-02-07,45480.0,Human Resources,4.0
+CUST_1301,Laura Miller,39,Female,2021-02-08,120285.09,Marketing,3.0
+CUST_1302,David Brown,27,Male,2022-03-21,87641.0,Sales,3.0
+CUST_1303,Laura Smith,35,Male,2021-02-11,68807.99,Operations,4.0
+CUST_1304,James Smith,39,Male,2021-02-12,67072.0,Marketing,5.0
+CUST_1305,Laura Brown,63,Male,2021-02-14,72241.34,Operations,2.0
+CUST_1306,James Jones,66,Male,2021-02-15,59947.47,Engineering,4.0
+CUST_1307,Michael Rodriguez,44,Female,2021-02-16,68205.61,Sales,3.0
+CUST_1308,James Brown,30,Male,2022-03-21,77484.0,Engineering,2.0
+CUST_1309,Emily Garcia,50,Female,2021-02-19,46837.0,Engineering,3.0
+CUST_1310,Sarah Rodriguez,22,Male,2021-02-20,24147.1,Marketing,3.0
+CUST_1311,Jessica Rodriguez,43,Female,2021-02-22,20000.0,Human Resources,4.0
+CUST_1312,Laura Davis,30,Female,2021-02-23,87197.47,Engineering,3.0
+CUST_1313,John Williams,44,Female,2021-02-24,25426.9,Human Resources,3.0
+CUST_1314,Sarah Jones,74,Female,2021-02-26,76633.6,Marketing,4.0
+CUST_1315,David Jones,31,Female,2021-02-27,36141.1,Engineering,3.0
+CUST_1316,Emily Jones,41,Female,2021-02-28,36543.85,Human Resources,4.0
+CUST_1317,Michael Smith,20,Male,2021-03-02,47045.03,Marketing,4.0
+CUST_1318,David Rodriguez,64,Female,2021-03-03,69853.0,Marketing,3.0
+CUST_1319,James Brown,68,Male,2021-03-04,32785.0,Operations,5.0
+CUST_1320,Michael Smith,66,Male,2021-03-06,49576.69,Engineering,1.0
+CUST_1321,Sarah Garcia,47,Male,2021-07-03,64357.02,Operations,1.0
+CUST_1322,John Garcia,52,Male,2021-08-03,34743.0,Engineering,3.0
+CUST_1323,Daniel Garcia,65,Male,2021-10-03,100706.0,Marketing,3.0
+CUST_1324,Jessica Rodriguez,31,Male,2021-03-11,21936.56,Sales,3.0
+CUST_1325,Michael Wilson,29,Male,2021-03-12,59546.0,Human Resources,3.0
+CUST_1326,Emily Miller,45,Female,2021-03-14,96813.52,Human Resources,2.0
+CUST_1327,Laura Jones,61,Male,2021-03-15,31888.34,Marketing,2.0
+CUST_1328,Michael Miller,46,Female,2021-03-16,62259.35,Operations,4.0
+CUST_1329,Emily Rodriguez,60,Male,2021-03-18,68321.47,Engineering,4.0
+CUST_1330,Michael Brown,34,Female,2021-03-19,44831.0,Sales,3.0
+CUST_1331,Daniel Davis,57,Female,2021-03-21,63062.93,Marketing,3.0
+CUST_1332,Emily Miller,66,Female,2021-03-22,79036.11,Operations,3.0
+CUST_1333,Michael Miller,38,Female,2021-03-23,53321.0,Sales,2.0
+CUST_1334,Sarah Garcia,74,Male,2021-03-25,84108.0,Sales,3.0
+CUST_1335,Sarah Davis,40,Female,2021-03-26,74818.0,Operations,4.0
+CUST_1336,James Smith,37,Female,2021-03-27,50427.49,Engineering,3.0
+CUST_1337,Laura Davis,28,Female,2022-03-21,93186.36,Operations,1.0
+CUST_1338,Jessica Miller,74,Female,2021-03-30,46477.0,Engineering,5.0
+CUST_1339,Jessica Rodriguez,74,Male,2021-03-31,86397.33,Marketing,4.0
+CUST_1340,Sarah Smith,51,Female,2021-04-02,46924.61,Engineering,3.0
+CUST_1341,Jessica Wilson,27,Male,2021-04-03,57098.17,Marketing,3.0
+CUST_1342,Laura Williams,44,Female,2021-04-04,60933.89,Human Resources,5.0
+CUST_1343,Emma Smith,60,Male,2021-04-06,73464.58,Human Resources,3.0
+CUST_1344,James Smith,23,Female,2021-04-07,20000.0,Engineering,3.0
+CUST_1345,Michael Garcia,53,Female,2021-04-08,76450.39,Sales,3.0
+CUST_1346,Michael Brown,41,Male,2021-10-04,62438.02,Human Resources,3.0
+CUST_1347,Laura Smith,29,Female,2021-04-11,72143.5,Marketing,4.0
+CUST_1348,Jessica Smith,60,Female,2021-04-12,77562.21,Marketing,3.0
+CUST_1349,John Garcia,72,Female,2022-03-21,74845.0,Engineering,1.0
+CUST_1350,Emily Smith,40,Male,2021-04-15,20000.0,Marketing,1.0
+CUST_1351,Emma Davis,44,Male,2021-04-16,38474.74,Human Resources,1.0
+CUST_1352,Unknown Client,74,Female,2021-04-18,73320.4,Marketing,3.0
+CUST_1353,John Wilson,44,Female,2021-04-19,69992.4,Engineering,4.0
+CUST_1354,Jessica Rodriguez,54,Female,2021-04-20,45261.16,Operations,2.0
+CUST_1355,James Garcia,23,Male,2021-04-22,83440.98,Engineering,3.0
+CUST_1356,David Smith,18,Female,2021-04-23,58589.37,Engineering,4.0
+CUST_1357,James Smith,23,Female,2021-04-24,87143.0,Marketing,3.0
+CUST_1358,Laura Jones,67,Female,2022-03-21,95250.53,Sales,3.0
+CUST_1359,Michael Davis,39,Male,2021-04-27,71957.55,Operations,4.0
+CUST_1360,Unknown Client,44,Male,2021-04-29,78888.81,Operations,3.0
+CUST_1361,Daniel Williams,41,Female,2021-04-30,49788.0,Sales,3.0
+CUST_1362,John Garcia,44,Female,2022-03-21,87305.25,Marketing,3.0
+CUST_1363,Unknown Client,32,Male,2021-03-05,70453.0,Sales,5.0
+CUST_1364,Laura Jones,43,Male,2021-05-04,57632.22,Operations,3.0
+CUST_1365,John Wilson,25,Male,2021-05-05,34530.0,Sales,3.0
+CUST_1366,Daniel Wilson,68,Female,2021-05-07,52864.0,Human Resources,3.0
+CUST_1367,David Garcia,41,Male,2021-05-08,37263.0,Operations,1.0
+CUST_1368,James Davis,65,Male,2021-05-09,84037.24,Operations,3.0
+CUST_1369,Daniel Smith,55,Female,2021-05-11,95510.75,Sales,3.0
+CUST_1370,Emily Johnson,23,Female,2021-05-12,87906.73,Operations,2.0
+CUST_1371,Sarah Johnson,71,Female,2021-05-13,127151.0,Marketing,3.0
+CUST_1372,Emily Smith,52,Female,2021-05-15,53489.83,Sales,1.0
+CUST_1373,Emily Johnson,59,Female,2021-05-16,79914.31,Human Resources,3.0
+CUST_1374,David Williams,18,Female,2021-05-17,35466.13,Marketing,2.0
+CUST_1375,Laura Brown,63,Female,2021-05-19,60068.73,Engineering,1.0
+CUST_1376,John Smith,53,Female,2022-03-21,28066.27,Marketing,4.0
+CUST_1377,Emma Williams,29,Male,2021-05-21,79204.86,Marketing,5.0
+CUST_1378,James Davis,55,Female,2021-05-23,56112.71,Sales,2.0
+CUST_1379,Sarah Rodriguez,28,Male,2021-05-24,20000.0,Engineering,3.0
+CUST_1380,Emma Johnson,29,Male,2021-05-25,47875.0,Operations,3.0
+CUST_1381,Michael Wilson,59,Male,2021-05-27,109828.0,Operations,3.0
+CUST_1382,Sarah Williams,67,Male,2021-05-28,75261.0,Sales,3.0
+CUST_1383,Jessica Rodriguez,56,Other,2021-05-29,84227.32,Engineering,3.0
+CUST_1384,James Davis,44,Female,2021-05-31,68139.0,Engineering,4.0
+CUST_1385,Michael Brown,44,Female,2021-06-01,60461.03,Sales,2.0
+CUST_1386,Jessica Jones,53,Female,2021-06-02,65389.48,Human Resources,1.0
+CUST_1387,Sarah Miller,44,Female,2021-06-04,71135.82,Engineering,4.0
+CUST_1388,Michael Garcia,48,Male,2021-05-06,37583.69,Sales,3.0
+CUST_1389,Sarah Smith,50,Female,2021-06-06,84076.55,Sales,3.0
+CUST_1390,James Williams,30,Female,2021-06-08,64452.43,Engineering,3.0
+CUST_1391,John Davis,35,Male,2021-06-09,60085.27,Marketing,3.0
+CUST_1392,Emma Jones,58,Female,2021-06-11,51923.99,Engineering,3.0
+CUST_1393,David Smith,73,Male,2021-06-12,46452.28,Sales,3.0
+CUST_1394,James Davis,41,Male,2021-06-13,108980.42,Human Resources,3.0
+CUST_1395,Laura Rodriguez,26,Male,2021-06-15,53693.23,Sales,3.0
+CUST_1396,Jessica Jones,48,Male,2021-06-16,81332.86,Marketing,4.0
+CUST_1397,Jessica Johnson,44,Female,2021-06-17,60261.0,Human Resources,3.0
+CUST_1398,Emily Williams,58,Female,2021-06-19,58909.25,Human Resources,3.0
+CUST_1399,Daniel Rodriguez,27,Male,2021-06-20,45881.26,Human Resources,3.0
+CUST_1400,David Miller,19,Female,2021-06-21,40743.0,Operations,3.0
+CUST_1401,Emma Johnson,55,Female,2021-06-23,83498.0,Marketing,3.0
+CUST_1402,Michael Williams,32,Male,2021-06-24,40177.0,Human Resources,3.0
+CUST_1403,James Davis,20,Male,2021-06-25,76562.98,Operations,4.0
+CUST_1404,Laura Wilson,60,Other,2021-06-27,67264.6,Marketing,4.0
+CUST_1405,James Miller,48,Female,2021-06-28,83815.96,Operations,4.0
+CUST_1406,Emily Smith,23,Female,2021-06-29,49751.0,Sales,4.0
+CUST_1407,Laura Davis,20,Male,2021-07-01,92004.0,Sales,5.0
+CUST_1408,Sarah Garcia,73,Female,2022-03-21,61470.24,Sales,3.0
+CUST_1409,Unknown Client,28,Male,2021-03-07,129677.08,Marketing,5.0
+CUST_2410,Emily Jones,32,Male,2021-05-07,24646.0,Sales,2.0
+CUST_1411,Laura Smith,62,Female,2021-07-06,125723.37,Engineering,1.0
+CUST_1412,John Brown,69,Male,2021-07-07,61840.85,Human Resources,3.0
+CUST_1413,Michael Wilson,45,Male,2021-07-09,70570.05,Human Resources,5.0
+CUST_1414,Sarah Williams,27,Male,2021-07-10,49892.76,Engineering,3.0
+CUST_1415,John Smith,55,Male,2021-07-11,64452.43,Operations,2.0
+CUST_1416,Jessica Jones,64,Female,2021-07-13,51790.08,Human Resources,3.0
+CUST_1417,Laura Johnson,74,Female,2021-07-14,55857.83,Sales,3.0
+CUST_1418,Emily Garcia,67,Male,2021-07-15,69570.04,Human Resources,3.0
+CUST_1419,Unknown Client,67,Male,2021-07-17,93028.46,Sales,4.0
+CUST_1420,Emily Smith,24,Male,2021-07-18,69768.27,Engineering,5.0
+CUST_1421,Sarah Jones,32,Female,2021-07-20,70203.54,Operations,4.0
+CUST_1422,Laura Garcia,35,Male,2021-07-21,74609.19,Marketing,3.0
+CUST_1423,Michael Brown,44,Female,2021-07-22,64452.43,Human Resources,3.0
+CUST_1424,Emma Miller,69,Male,2021-07-24,23437.0,Operations,3.0
+CUST_1425,Emma Williams,58,Male,2021-07-25,27575.28,Engineering,3.0
+CUST_1426,Sarah Miller,41,Female,2021-07-26,55668.15,Human Resources,2.0
+CUST_1427,David Wilson,19,Female,2021-07-28,64452.43,Human Resources,4.0
+CUST_1428,David Wilson,57,Male,2021-07-29,47755.31,Operations,3.0
+CUST_1429,David Wilson,37,Female,2021-07-30,30794.0,Marketing,4.0
+CUST_1430,David Williams,51,Female,2021-08-01,77192.89,Engineering,5.0
+CUST_1431,Daniel Miller,60,Female,2021-08-02,75941.0,Sales,1.0
+CUST_1432,Emily Johnson,43,Female,2021-08-03,57484.0,Human Resources,5.0
+CUST_1433,James Smith,24,Female,2021-08-05,20000.0,Operations,4.0
+CUST_1434,Emily Smith,55,Female,2021-06-08,59071.0,Engineering,3.0
+CUST_1435,Jessica Brown,47,Male,2021-08-07,73216.0,Engineering,3.0
+CUST_1436,David Jones,44,Female,2021-08-09,85268.17,Engineering,3.0
+CUST_1437,James Smith,22,Male,2021-08-10,108835.12,Engineering,3.0
+CUST_1438,Sarah Miller,44,Male,2021-08-11,92962.45,Sales,3.0
+CUST_1439,David Davis,18,Male,2021-08-13,69119.0,Marketing,2.0
+CUST_1440,Michael Williams,51,Male,2021-08-14,57869.0,Engineering,3.0
+CUST_1441,Emma Johnson,73,Female,2021-08-15,46426.65,Operations,3.0
+CUST_1442,Michael Wilson,18,Female,2021-08-17,98891.55,Marketing,1.0
+CUST_1443,John Jones,36,Female,2021-08-18,69165.0,Human Resources,3.0
+CUST_1444,David Davis,19,Male,2021-08-19,80763.61,Operations,3.0
+CUST_1445,Emily Williams,38,Male,2021-08-21,50244.51,Sales,3.0
+CUST_1446,John Garcia,37,Female,2021-08-22,33977.0,Operations,1.0
+CUST_1447,Michael Johnson,40,Male,2022-03-21,54991.56,Operations,4.0
+CUST_1448,Emily Williams,38,Female,2022-03-21,57426.79,Marketing,3.0
+CUST_1449,John Williams,41,Female,2021-08-26,69794.31,Marketing,2.0
+CUST_1450,Sarah Garcia,21,Female,2021-08-28,46564.15,Engineering,3.0
+CUST_1451,Jessica Rodriguez,29,Female,2021-08-29,65624.25,Operations,3.0
+CUST_1452,Laura Wilson,39,Female,2021-08-30,94442.66,Operations,3.0
+CUST_1453,Michael Jones,37,Male,2021-09-01,23175.96,Engineering,3.0
+CUST_1454,Daniel Jones,35,Female,2021-09-02,20000.0,Marketing,4.0
+CUST_1455,Laura Jones,18,Male,2021-09-03,96147.85,Engineering,4.0
+CUST_1456,John Jones,47,Male,2021-09-05,28409.34,Marketing,2.0
+CUST_1457,Emily Miller,50,Male,2021-09-06,64452.43,Human Resources,4.0
+CUST_1458,Michael Jones,41,Female,2021-09-07,80211.99,Human Resources,3.0
+CUST_1459,Sarah Miller,31,Male,2021-09-09,63519.0,Human Resources,5.0
+CUST_1460,Jessica Jones,53,Male,2021-09-10,63168.0,Marketing,1.0
+CUST_1461,Jessica Davis,22,Male,2021-09-11,66809.92,Sales,3.0
+CUST_1462,David Smith,28,Female,2021-09-13,127968.0,Operations,3.0
+CUST_1463,Laura Brown,41,Female,2021-09-14,109515.62,Marketing,3.0
+CUST_1464,James Wilson,48,Female,2021-09-15,47657.0,Operations,4.0
+CUST_1465,Jessica Smith,72,Female,2021-09-17,91272.21,Human Resources,3.0
+CUST_1466,Michael Williams,30,Male,2022-03-21,77638.0,Marketing,1.0
+CUST_1467,Emma Brown,33,Male,2021-09-19,64512.13,Human Resources,3.0
+CUST_1468,Jessica Davis,41,Female,2021-09-21,42303.0,Human Resources,3.0
+CUST_1469,Emma Brown,30,Male,2021-09-22,76284.2,Human Resources,2.0
+CUST_1470,Jessica Smith,41,Male,2022-03-21,57349.0,Sales,3.0
+CUST_1471,Laura Davis,71,Male,2021-09-25,55511.0,Sales,3.0
+CUST_1472,James Williams,43,Female,2021-09-26,45823.0,Sales,3.0
+CUST_1473,Sarah Smith,19,Male,2021-09-27,89995.59,Marketing,3.0
+CUST_1474,Michael Jones,33,Female,2022-03-21,45806.55,Sales,3.0
+CUST_1475,Sarah Williams,55,Male,2021-09-30,45958.87,Operations,4.0
+CUST_1476,Emily Davis,63,Female,2021-10-01,84448.0,Engineering,5.0
+CUST_1477,Michael Rodriguez,18,Male,2021-10-03,64452.43,Operations,3.0
+CUST_1478,Laura Brown,66,Male,2021-10-04,62065.0,Engineering,4.0
+CUST_1479,John Smith,44,Male,2021-10-05,90822.34,Marketing,3.0
+CUST_1480,John Smith,68,Female,2021-10-07,97843.0,Human Resources,3.0
+CUST_1481,Laura Williams,52,Male,2021-10-08,20000.0,Marketing,5.0
+CUST_1482,Jessica Williams,60,Female,2021-10-10,61780.64,Sales,3.0
+CUST_1483,David Davis,46,Female,2021-10-11,29743.0,Marketing,3.0
+CUST_1484,Sarah Miller,54,Female,2022-03-21,55330.17,Marketing,3.0
+CUST_1485,Jessica Williams,34,Male,2021-10-14,64831.6,Operations,3.0
+CUST_1486,Jessica Wilson,71,Male,2021-10-15,56128.64,Marketing,3.0
+CUST_1487,Emma Jones,44,Male,2021-10-16,39368.11,Operations,5.0
+CUST_1488,Unknown Client,59,Female,2021-10-18,38099.83,Marketing,3.0
+CUST_1489,Laura Williams,44,Female,2021-10-19,83199.0,Sales,4.0
+CUST_1490,Laura Rodriguez,46,Female,2021-10-20,103370.25,Operations,3.0
+CUST_1491,Michael Williams,60,Female,2021-10-22,20000.0,Marketing,3.0
+CUST_1492,Sarah Garcia,20,Male,2021-10-23,56809.53,Marketing,5.0
+CUST_1493,Emma Smith,69,Male,2021-10-24,83299.1,Marketing,3.0
+CUST_1494,Laura Davis,27,Female,2021-10-26,64184.91,Human Resources,2.0
+CUST_1495,Daniel Williams,59,Male,2022-03-21,37158.0,Engineering,3.0
+CUST_1496,John Brown,31,Male,2021-10-28,53055.0,Human Resources,3.0
+CUST_1497,James Jones,29,Female,2021-10-30,72553.76,Marketing,2.0
+CUST_1498,John Jones,44,Male,2021-10-31,57320.0,Marketing,4.0
+CUST_1499,Laura Garcia,59,Female,2021-11-01,63800.5,Engineering,5.0
+CUST_1500,David Rodriguez,47,Female,2021-11-03,64521.0,Human Resources,3.0
+CUST_1501,John Brown,49,Female,2021-11-04,51892.96,Operations,4.0
+CUST_1502,Michael Johnson,49,Male,2021-11-05,85414.0,Sales,4.0
+CUST_1503,Laura Davis,59,Male,2021-07-11,53062.71,Engineering,3.0
+CUST_1504,James Johnson,49,Female,2021-11-08,39863.3,Human Resources,1.0
+CUST_1505,Emily Miller,43,Male,2021-11-09,120740.99,Human Resources,2.0
+CUST_1506,Michael Garcia,68,Male,2021-11-11,63055.15,Operations,1.0
+CUST_1507,Michael Johnson,18,Female,2021-11-12,20000.0,Engineering,1.0
+CUST_1508,Michael Miller,73,Male,2021-11-13,96368.62,Sales,3.0
+CUST_1509,Sarah Garcia,59,Male,2021-11-15,96288.22,Operations,3.0
+CUST_2510,John Davis,19,Female,2021-11-16,76429.0,Sales,3.0
+CUST_1511,Sarah Wilson,34,Male,2021-11-18,80790.88,Engineering,1.0
+CUST_1512,Jessica Johnson,47,Male,2021-11-19,118993.56,Engineering,3.0
+CUST_1513,Sarah Wilson,73,Female,2021-11-20,40929.96,Operations,3.0
+CUST_1514,Laura Johnson,56,Other,2021-11-22,68331.0,Sales,4.0
+CUST_1515,Daniel Williams,24,Male,2021-11-23,114243.0,Human Resources,1.0
+CUST_1516,Laura Davis,69,Male,2022-03-21,119539.23,Sales,4.0
+CUST_1517,Laura Davis,44,Female,2021-11-26,55847.69,Human Resources,5.0
+CUST_1518,Jessica Davis,26,Female,2021-11-27,115253.77,Sales,4.0
+CUST_1519,David Davis,39,Female,2021-11-28,85066.0,Operations,4.0
+CUST_1520,John Smith,51,Female,2021-11-30,102380.36,Operations,5.0
+CUST_1521,James Jones,63,Male,2021-12-01,84245.52,Human Resources,2.0
+CUST_1522,David Williams,66,Female,2021-12-02,72636.16,Operations,5.0
+CUST_1523,David Williams,18,Male,2021-12-04,120234.68,Operations,4.0
+CUST_1524,James Rodriguez,26,Female,2021-12-05,51784.75,Sales,4.0
+CUST_1525,Jessica Smith,37,Female,2021-12-06,112557.0,Marketing,3.0
+CUST_1526,Daniel Davis,70,Other,2021-12-08,116517.22,Human Resources,3.0
+CUST_1527,Emma Wilson,36,Male,2022-03-21,99076.21,Engineering,3.0
+CUST_2528,Emily Garcia,53,Male,2021-12-10,63206.78,Sales,3.0
+CUST_1529,Jessica Brown,57,Female,2021-12-12,71110.88,Operations,4.0
+CUST_1530,Emily Johnson,62,Female,2021-12-13,33129.86,Human Resources,2.0
+CUST_1531,Sarah Brown,21,Female,2021-12-14,53686.0,Engineering,3.0
+CUST_1532,David Garcia,26,Male,2021-12-16,80517.79,Human Resources,3.0
+CUST_1533,Jessica Brown,44,Male,2021-12-17,29332.19,Marketing,3.0
+CUST_1534,Unknown Client,39,Female,2021-12-18,57552.22,Engineering,2.0
+CUST_1535,Sarah Davis,35,Female,2021-12-20,113620.72,Sales,2.0
+CUST_1536,Sarah Johnson,29,Female,2021-12-21,61140.9,Operations,3.0
+CUST_1537,Laura Johnson,59,Male,2021-12-22,90840.71,Marketing,3.0
+CUST_1538,James Smith,60,Female,2021-12-24,79162.56,Marketing,1.0
+CUST_1539,James Smith,56,Female,2021-12-25,129677.08,Engineering,3.0
+CUST_1540,Emma Wilson,26,Female,2021-12-27,61123.78,Human Resources,4.0
+CUST_1541,Sarah Miller,23,Male,2021-12-28,69171.63,Engineering,4.0
+CUST_1542,Jessica Smith,36,Female,2022-03-21,20000.0,Human Resources,2.0
+CUST_1543,Unknown Client,65,Male,2021-12-31,88674.0,Sales,3.0
+CUST_1544,Sarah Garcia,64,Female,2022-01-01,62040.5,Human Resources,3.0
+CUST_1545,James Miller,24,Male,2022-02-01,89547.93,Sales,5.0
+CUST_1546,David Rodriguez,33,Male,2022-04-01,74705.02,Sales,4.0
+CUST_1547,Unknown Client,22,Male,2022-01-05,60936.01,Sales,3.0
+CUST_1548,Michael Rodriguez,33,Male,2022-01-06,69938.72,Sales,4.0
+CUST_1549,Sarah Brown,18,Other,2022-08-01,70023.0,Engineering,2.0
+CUST_1550,Emily Johnson,68,Male,2022-01-09,101905.0,Sales,1.0
+CUST_1551,Michael Williams,54,Female,2022-01-10,66566.36,Engineering,4.0
+CUST_1552,John Miller,56,Female,2022-01-12,72204.14,Sales,2.0
+CUST_1553,Laura Williams,36,Male,2022-01-13,33452.76,Marketing,2.0
+CUST_1554,David Smith,71,Female,2022-03-21,63823.91,Engineering,4.0
+CUST_1555,Emma Davis,54,Male,2022-01-16,101358.0,Operations,3.0
+CUST_1556,Emma Smith,34,Male,2022-03-21,75721.0,Operations,3.0
+CUST_1557,James Garcia,43,Male,2022-01-18,37975.0,Sales,5.0
+CUST_1558,Daniel Wilson,39,Female,2022-01-20,40654.29,Marketing,3.0
+CUST_1559,Daniel Jones,25,Male,2022-01-21,46462.61,Human Resources,2.0
+CUST_1560,David Jones,50,Female,2022-01-22,89991.0,Engineering,2.0
+CUST_1561,John Garcia,19,Female,2022-01-24,86914.0,Marketing,2.0
+CUST_1562,John Brown,47,Female,2022-01-25,20000.0,Sales,1.0
+CUST_1563,James Rodriguez,64,Male,2022-01-26,62965.36,Engineering,2.0
+CUST_1564,David Brown,44,Female,2022-01-28,68690.95,Human Resources,3.0
+CUST_1565,Unknown Client,35,Female,2022-01-29,40946.41,Operations,3.0
+CUST_1566,David Wilson,60,Female,2022-03-21,55238.13,Human Resources,4.0
+CUST_1567,John Jones,74,Female,2022-02-01,98274.96,Engineering,4.0
+CUST_1568,Jessica Davis,27,Female,2022-03-21,75221.08,Sales,4.0
+CUST_1569,James Williams,41,Male,2022-02-03,52510.43,Sales,3.0
+CUST_1570,Sarah Williams,73,Male,2022-02-05,60317.29,Engineering,2.0
+CUST_1571,James Davis,21,Male,2022-02-06,59303.17,Engineering,4.0
+CUST_1572,James Johnson,54,Male,2022-02-08,72048.88,Marketing,3.0
+CUST_1573,David Brown,21,Male,2022-02-09,29257.0,Human Resources,2.0
+CUST_1574,Sarah Rodriguez,44,Male,2022-02-10,48256.12,Operations,4.0
+CUST_1575,James Miller,42,Male,2022-12-02,90884.91,Operations,3.0
+CUST_1576,Jessica Garcia,30,Other,2022-02-13,64452.43,Operations,2.0
+CUST_1577,Jessica Smith,35,Male,2022-02-14,43752.0,Marketing,4.0
+CUST_1578,Emily Davis,41,Female,2022-02-16,44783.5,Operations,5.0
+CUST_1579,Sarah Rodriguez,19,Female,2022-02-17,83021.0,Engineering,3.0
+CUST_1580,Laura Garcia,65,Female,2022-02-18,52054.87,Engineering,3.0
+CUST_1581,Daniel Brown,50,Female,2022-02-20,77772.58,Marketing,3.0
+CUST_1582,Unknown Client,36,Male,2022-02-21,49329.14,Sales,4.0
+CUST_1583,Jessica Jones,26,Male,2022-02-22,36750.88,Human Resources,3.0
+CUST_1584,Laura Miller,45,Male,2022-02-24,71111.0,Engineering,3.0
+CUST_1585,Jessica Smith,52,Male,2022-02-25,62565.0,Marketing,5.0
+CUST_1586,Emily Jones,74,Female,2022-02-26,129677.08,Human Resources,3.0
+CUST_1587,Michael Rodriguez,56,Female,2022-02-28,87103.0,Human Resources,5.0
+CUST_1588,John Miller,27,Male,2022-03-01,56050.83,Operations,5.0
+CUST_1589,Jessica Wilson,18,Male,2022-03-02,73723.0,Sales,3.0
+CUST_1590,David Jones,59,Male,2022-03-04,64452.43,Engineering,4.0
+CUST_1591,Emma Jones,38,Male,2022-03-05,80841.0,Operations,3.0
+CUST_1592,Jessica Garcia,26,Female,2022-03-06,70835.0,Human Resources,4.0
+CUST_1593,Sarah Miller,64,Male,2022-03-08,49404.0,Sales,4.0
+CUST_1594,John Brown,44,Female,2022-03-09,47310.55,Human Resources,3.0
+CUST_2595,Emma Williams,52,Male,2022-03-10,71717.0,Human Resources,4.0
+CUST_1596,James Williams,74,Male,2022-03-12,94055.0,Sales,4.0
+CUST_1597,Jessica Smith,22,Female,2022-03-13,64452.43,Human Resources,3.0
+CUST_1598,Jessica Brown,58,Female,2022-03-14,41424.76,Engineering,2.0
+CUST_1599,Laura Rodriguez,39,Other,2022-03-16,44053.92,Human Resources,2.0
+CUST_1600,Emily Wilson,58,Female,2022-03-17,47738.0,Operations,3.0
+CUST_1601,Emma Miller,40,Male,2022-03-19,50085.93,Engineering,5.0
+CUST_1602,John Brown,24,Male,2022-03-20,20000.0,Marketing,3.0
+CUST_1603,Daniel Smith,73,Female,2022-03-21,84751.08,Operations,3.0
+CUST_1604,Laura Wilson,40,Female,2022-03-23,53602.93,Marketing,3.0
+CUST_1605,Jessica Jones,61,Female,2022-03-24,76551.86,Sales,3.0
+CUST_1606,Emma Rodriguez,42,Male,2022-03-25,57106.05,Engineering,2.0
+CUST_1607,Sarah Jones,44,Female,2022-03-27,64425.85,Operations,3.0
+CUST_1608,Jessica Davis,58,Male,2022-03-28,47870.35,Engineering,3.0
+CUST_1609,David Rodriguez,23,Female,2022-03-29,64293.56,Operations,3.0
+CUST_1610,John Davis,72,Female,2022-03-31,43218.85,Sales,5.0
+CUST_1611,Emma Davis,51,Male,2022-04-01,64479.01,Engineering,3.0
+CUST_1612,Emily Rodriguez,26,Female,2022-02-04,101430.58,Marketing,3.0
+CUST_1613,David Brown,66,Male,2022-04-04,78015.12,Human Resources,2.0
+CUST_1614,Daniel Brown,50,Other,2022-04-05,72276.0,Human Resources,5.0
+CUST_1615,Michael Rodriguez,68,Male,2022-04-06,32006.48,Operations,4.0
+CUST_1616,Laura Smith,23,Female,2022-08-04,79181.41,Human Resources,4.0
+CUST_1617,Daniel Rodriguez,54,Male,2022-04-09,81611.0,Sales,3.0
+CUST_1618,Laura Garcia,48,Female,2022-04-10,71706.64,Human Resources,3.0
+CUST_1619,Jessica Brown,51,Female,2022-04-12,64452.43,Human Resources,3.0
+CUST_1620,Laura Williams,58,Male,2022-04-13,61495.0,Marketing,2.0
+CUST_1621,James Johnson,46,Male,2022-04-14,81235.06,Engineering,4.0
+CUST_1622,Sarah Davis,31,Female,2022-04-16,99925.26,Operations,5.0
+CUST_1623,Emma Brown,53,Male,2022-03-21,73263.2,Human Resources,2.0
+CUST_1624,Emma Garcia,53,Female,2022-04-18,40707.07,Sales,2.0
+CUST_1625,James Davis,70,Male,2022-04-20,42619.57,Human Resources,4.0
+CUST_1626,David Garcia,32,Female,2022-04-21,83156.0,Operations,3.0
+CUST_1627,Emily Johnson,25,Male,2022-04-22,40910.0,Marketing,3.0
+CUST_1628,Jessica Rodriguez,43,Male,2022-04-24,70026.37,Marketing,4.0
+CUST_1629,John Wilson,53,Male,2022-04-25,56361.43,Operations,3.0
+CUST_1630,Daniel Wilson,65,Male,2022-04-27,38194.0,Operations,4.0
+CUST_1631,James Wilson,38,Male,2022-04-28,85806.74,Human Resources,3.0
+CUST_1632,James Wilson,45,Female,2022-04-29,82669.26,Engineering,4.0
+CUST_1633,Michael Jones,21,Female,2022-05-01,31108.77,Marketing,4.0
+CUST_1634,Laura Garcia,33,Female,2022-05-02,77036.09,Engineering,4.0
+CUST_1635,Emily Smith,39,Female,2022-03-05,64452.43,Marketing,1.0
+CUST_1636,John Brown,29,Male,2022-05-05,85936.43,Marketing,3.0
+CUST_1637,Jessica Garcia,33,Female,2022-05-06,69169.55,Operations,2.0
+CUST_1638,Jessica Rodriguez,68,Male,2022-05-07,100670.9,Human Resources,3.0
+CUST_1639,James Johnson,57,Female,2022-03-21,61833.48,Sales,4.0
+CUST_1640,Unknown Client,55,Male,2022-05-10,58197.64,Engineering,3.0
+CUST_1641,Sarah Jones,59,Male,2022-05-11,40630.0,Marketing,4.0
+CUST_1642,Emily Brown,54,Male,2022-05-13,41651.0,Operations,3.0
+CUST_1643,James Garcia,46,Female,2022-03-21,39387.88,Human Resources,3.0
+CUST_2644,Jessica Smith,35,Male,2022-03-21,70459.99,Sales,4.0
+CUST_1645,Sarah Miller,27,Female,2022-05-17,58272.52,Engineering,3.0
+CUST_1646,Sarah Wilson,59,Male,2022-05-18,73267.33,Operations,4.0
+CUST_1647,David Jones,56,Female,2022-05-19,34768.78,Marketing,3.0
+CUST_1648,Jessica Miller,35,Female,2022-03-21,43607.69,Human Resources,5.0
+CUST_1649,Jessica Johnson,18,Male,2022-05-22,43186.42,Engineering,3.0
+CUST_1650,Emma Williams,56,Female,2022-05-23,119231.77,Human Resources,4.0
+CUST_1651,Jessica Garcia,38,Female,2022-05-25,60858.0,Marketing,2.0
+CUST_1652,John Smith,18,Female,2022-05-26,63341.0,Operations,3.0
+CUST_1653,Sarah Miller,32,Female,2022-05-27,63063.67,Marketing,5.0
+CUST_1654,James Brown,44,Female,2022-05-29,103820.73,Marketing,4.0
+CUST_1655,Michael Garcia,37,Female,2022-03-21,24667.0,Engineering,1.0
+CUST_1656,Emma Rodriguez,27,Male,2022-05-31,63502.51,Human Resources,3.0
+CUST_2657,David Rodriguez,40,Female,2022-06-02,24432.0,Operations,3.0
+CUST_1658,Sarah Williams,58,Male,2022-06-03,20000.0,Sales,2.0
+CUST_1659,Daniel Davis,44,Male,2022-04-06,46644.0,Operations,4.0
+CUST_1660,Jessica Miller,63,Female,2022-06-06,75304.1,Engineering,2.0
+CUST_1661,Sarah Wilson,65,Male,2022-06-07,45055.0,Marketing,3.0
+CUST_1662,Jessica Brown,50,Male,2022-09-06,74894.13,Human Resources,3.0
+CUST_1663,Michael Johnson,51,Female,2022-06-10,67661.91,Engineering,3.0
+CUST_1664,John Jones,56,Female,2022-11-06,61523.36,Human Resources,4.0
+CUST_1665,Sarah Johnson,27,Female,2022-03-21,96624.0,Operations,5.0
+CUST_1666,Daniel Garcia,71,Female,2022-06-14,50099.0,Human Resources,2.0
+CUST_1667,Emma Garcia,37,Female,2022-06-15,64452.43,Sales,4.0
+CUST_1668,Emily Smith,18,Male,2022-06-17,64452.43,Human Resources,3.0
+CUST_1669,Daniel Smith,30,Male,2022-06-18,67469.49,Operations,3.0
+CUST_1670,Emily Garcia,18,Female,2022-03-21,58569.6,Engineering,1.0
+CUST_1671,Sarah Miller,22,Male,2022-06-21,35443.84,Marketing,3.0
+CUST_1672,Jessica Rodriguez,33,Female,2022-06-22,74962.47,Operations,3.0
+CUST_1673,David Wilson,32,Female,2022-06-23,46526.0,Human Resources,3.0
+CUST_1674,Emily Jones,66,Male,2022-06-25,108305.0,Marketing,4.0
+CUST_1675,Emma Jones,44,Female,2022-06-26,20000.0,Engineering,4.0
+CUST_1676,Unknown Client,48,Female,2022-06-27,71206.46,Marketing,5.0
+CUST_1677,Laura Johnson,44,Male,2022-06-29,66067.0,Engineering,3.0
+CUST_1678,Daniel Garcia,65,Female,2022-06-30,57978.41,Marketing,3.0
+CUST_1679,Jessica Jones,62,Female,2022-07-01,51769.11,Human Resources,3.0
+CUST_1680,James Williams,60,Male,2022-07-03,66715.7,Marketing,3.0
+CUST_1681,Emma Brown,34,Female,2022-07-04,91554.78,Operations,3.0
+CUST_1682,James Miller,66,Female,2022-03-21,23195.36,Human Resources,3.0
+CUST_1683,Laura Davis,44,Female,2022-07-07,44850.33,Human Resources,3.0
+CUST_1684,Sarah Williams,30,Female,2022-07-08,38742.07,Human Resources,3.0
+CUST_1685,John Rodriguez,31,Female,2022-07-09,64452.43,Marketing,2.0
+CUST_1686,Daniel Smith,28,Male,2022-07-11,73568.73,Human Resources,1.0
+CUST_1687,Michael Brown,45,Female,2022-07-12,79733.43,Marketing,2.0
+CUST_1688,Emily Jones,59,Female,2022-07-13,64452.43,Engineering,2.0
+CUST_1689,Michael Williams,49,Male,2022-07-15,80127.45,Human Resources,4.0
+CUST_1690,John Davis,52,Male,2022-07-16,82153.55,Human Resources,2.0
+CUST_1691,Emma Smith,48,Other,2022-07-18,29705.0,Operations,4.0
+CUST_1692,Sarah Brown,34,Female,2022-07-19,102089.08,Marketing,3.0
+CUST_1693,Emily Jones,64,Female,2022-07-20,59756.0,Engineering,1.0
+CUST_1694,Sarah Brown,26,Female,2022-07-22,90824.9,Sales,4.0
+CUST_1695,John Johnson,27,Female,2022-07-23,30595.82,Operations,3.0
+CUST_1696,John Wilson,25,Female,2022-07-24,58964.5,Engineering,3.0
+CUST_1697,Emma Brown,38,Female,2022-03-21,88575.4,Sales,4.0
+CUST_1698,Emily Davis,30,Male,2022-07-27,65698.0,Human Resources,1.0
+CUST_1699,Emma Rodriguez,44,Female,2022-07-28,46150.75,Human Resources,2.0
+CUST_1700,James Jones,22,Female,2022-07-30,97745.0,Marketing,4.0
+CUST_1701,Emma Smith,23,Female,2022-07-31,35715.0,Marketing,4.0
+CUST_1702,John Miller,47,Female,2022-08-01,64489.33,Engineering,3.0
+CUST_1703,Sarah Garcia,48,Female,2022-03-08,81004.0,Sales,1.0
+CUST_1704,James Brown,44,Male,2022-04-08,117392.26,Sales,4.0
+CUST_1705,David Garcia,28,Male,2022-05-08,53541.0,Marketing,3.0
+CUST_1706,Michael Jones,37,Male,2022-07-08,58089.0,Engineering,2.0
+CUST_1707,Michael Wilson,65,Male,2022-08-08,53882.72,Engineering,3.0
+CUST_1708,Michael Williams,26,Other,2022-08-09,70961.75,Engineering,5.0
+CUST_1709,Daniel Davis,19,Male,2022-11-08,79698.21,Operations,1.0
+CUST_1710,Daniel Wilson,44,Male,2022-08-12,92332.83,Engineering,4.0
+CUST_1711,Laura Jones,18,Female,2022-08-13,83901.19,Human Resources,3.0
+CUST_1712,David Brown,21,Female,2022-08-15,52565.65,Sales,3.0
+CUST_1713,Daniel Wilson,53,Male,2022-08-16,85334.28,Engineering,4.0
+CUST_1714,Emily Johnson,71,Female,2022-08-17,67288.64,Sales,5.0
+CUST_1715,Emily Garcia,42,Female,2022-08-19,83631.31,Marketing,2.0
+CUST_1716,James Williams,20,Male,2022-08-20,85059.19,Sales,2.0
+CUST_1717,Daniel Rodriguez,26,Male,2022-08-21,105753.14,Sales,5.0
+CUST_1718,Emily Wilson,39,Female,2022-08-23,56135.0,Sales,3.0
+CUST_1719,Michael Jones,40,Female,2022-08-24,51361.18,Sales,3.0
+CUST_1720,John Williams,29,Female,2022-08-26,76179.09,Marketing,3.0
+CUST_1721,Laura Garcia,27,Male,2022-08-27,94562.92,Marketing,4.0
+CUST_1722,Emily Johnson,51,Male,2022-08-28,66452.0,Marketing,4.0
+CUST_1723,Laura Garcia,60,Female,2022-08-30,96192.81,Engineering,5.0
+CUST_1724,Emma Brown,27,Male,2022-08-31,64452.43,Engineering,3.0
+CUST_1725,Unknown Client,47,Male,2022-09-01,59970.0,Human Resources,3.0
+CUST_1726,James Smith,44,Female,2022-09-03,79083.0,Engineering,3.0
+CUST_1727,Daniel Jones,23,Male,2022-09-04,54129.0,Sales,3.0
+CUST_1728,Laura Brown,67,Female,2022-09-05,70965.0,Engineering,3.0
+CUST_1729,Daniel Jones,19,Female,2022-09-07,38171.02,Marketing,3.0
+CUST_1730,David Rodriguez,47,Male,2022-03-21,63296.0,Marketing,2.0
+CUST_1731,James Rodriguez,19,Female,2022-09-09,89992.0,Marketing,3.0
+CUST_1732,Jessica Miller,49,Male,2022-09-11,84179.0,Human Resources,4.0
+CUST_1733,David Rodriguez,59,Female,2022-09-12,80521.0,Human Resources,4.0
+CUST_1734,Emma Garcia,33,Male,2022-09-13,64452.43,Engineering,3.0
+CUST_1735,Daniel Davis,29,Male,2022-09-15,68996.15,Operations,2.0
+CUST_1736,Jessica Jones,18,Female,2022-09-16,33324.0,Sales,3.0
+CUST_1737,Emily Williams,70,Male,2022-09-17,59848.0,Marketing,4.0
+CUST_1738,Michael Miller,25,Female,2022-09-19,69565.0,Marketing,3.0
+CUST_1739,Emily Miller,65,Male,2022-09-20,36889.91,Marketing,4.0
+CUST_2740,Michael Brown,67,Male,2022-03-21,21206.0,Human Resources,3.0
+CUST_1741,James Jones,30,Female,2022-09-23,93221.0,Operations,3.0
+CUST_1742,Daniel Wilson,32,Male,2022-03-21,66270.96,Engineering,4.0
+CUST_1743,Sarah Jones,70,Male,2022-09-25,70249.48,Operations,2.0
+CUST_1744,James Williams,44,Female,2022-09-27,78890.67,Human Resources,3.0
+CUST_1745,James Miller,25,Female,2022-09-28,64452.43,Engineering,2.0
+CUST_1746,Emily Davis,27,Female,2022-03-21,54912.61,Sales,1.0
+CUST_1747,Laura Miller,63,Other,2022-10-01,102601.69,Marketing,3.0
+CUST_1748,David Miller,22,Male,2022-10-02,52783.62,Sales,3.0
+CUST_1749,David Garcia,67,Female,2022-10-03,58354.0,Engineering,4.0
+CUST_1750,John Davis,36,Male,2022-10-05,129677.08,Marketing,4.0
+CUST_1751,Emma Wilson,64,Female,2022-10-06,46478.64,Sales,4.0
+CUST_1752,Sarah Rodriguez,55,Female,2022-03-21,92637.0,Human Resources,3.0
+CUST_1753,John Wilson,28,Female,2022-10-09,20000.0,Sales,3.0
+CUST_1754,Jessica Rodriguez,70,Female,2022-10-10,53574.65,Engineering,3.0
+CUST_1755,John Brown,60,Female,2022-10-12,64452.43,Human Resources,3.0
+CUST_1756,Emily Rodriguez,37,Female,2022-10-13,64452.43,Operations,3.0
+CUST_1757,David Jones,37,Female,2022-10-14,36619.37,Sales,5.0
+CUST_1758,Jessica Smith,38,Female,2022-10-16,32358.22,Sales,2.0
+CUST_1759,John Rodriguez,35,Male,2022-10-17,43497.49,Engineering,5.0
+CUST_1760,Michael Brown,74,Male,2022-10-18,82543.0,Sales,1.0
+CUST_1761,John Rodriguez,67,Male,2022-10-20,68132.14,Sales,3.0
+CUST_1762,Laura Johnson,27,Male,2022-10-21,28934.11,Marketing,3.0
+CUST_1763,Laura Davis,51,Female,2022-10-22,67489.0,Human Resources,3.0
+CUST_1764,Jessica Smith,43,Female,2022-10-24,103785.94,Marketing,2.0
+CUST_1765,Daniel Wilson,47,Female,2022-10-25,71612.0,Marketing,4.0
+CUST_1766,Daniel Rodriguez,26,Other,2022-10-26,69114.0,Operations,4.0
+CUST_1767,John Johnson,63,Female,2022-10-28,70618.55,Human Resources,3.0
+CUST_1768,James Rodriguez,68,Male,2022-10-29,75363.0,Human Resources,3.0
+CUST_1769,Jessica Miller,48,Male,2022-10-30,33322.46,Marketing,5.0
+CUST_2770,Emily Brown,59,Male,2022-01-11,59201.9,Marketing,4.0
+CUST_1771,David Williams,72,Male,2022-02-11,60506.1,Operations,3.0
+CUST_1772,John Smith,21,Female,2022-03-11,52913.27,Sales,4.0
+CUST_1773,Daniel Smith,23,Female,2022-11-05,64452.43,Human Resources,3.0
+CUST_1774,John Williams,44,Female,2022-11-06,49150.16,Marketing,3.0
+CUST_1775,Emma Brown,44,Female,2022-11-07,56000.79,Human Resources,3.0
+CUST_1776,Emily Johnson,43,Female,2022-11-09,33496.0,Engineering,3.0
+CUST_1777,John Williams,64,Male,2022-11-10,74457.76,Operations,3.0
+CUST_1778,Emily Williams,65,Female,2022-11-11,88548.0,Human Resources,3.0
+CUST_1779,Laura Wilson,56,Male,2022-11-13,55974.49,Sales,3.0
+CUST_1780,Unknown Client,34,Male,2022-11-14,85185.0,Engineering,5.0
+CUST_1781,Daniel Brown,36,Male,2022-11-16,61326.08,Marketing,5.0
+CUST_1782,Laura Williams,68,Female,2022-11-17,20000.0,Sales,3.0
+CUST_1783,Jessica Rodriguez,66,Male,2022-11-18,63712.12,Operations,3.0
+CUST_1784,John Smith,23,Male,2022-11-20,60610.72,Human Resources,2.0
+CUST_1785,Laura Williams,46,Female,2022-11-21,67575.0,Sales,4.0
+CUST_1786,David Smith,28,Female,2022-11-22,71329.64,Engineering,1.0
+CUST_1787,David Miller,33,Male,2022-11-24,47901.96,Sales,3.0
+CUST_1788,Laura Williams,47,Male,2022-11-25,101782.87,Marketing,3.0
+CUST_1789,Michael Wilson,42,Female,2022-11-26,63346.0,Human Resources,3.0
+CUST_1790,James Brown,57,Male,2022-11-28,60008.0,Human Resources,1.0
+CUST_1791,Emily Davis,28,Female,2022-11-29,83613.24,Operations,4.0
+CUST_1792,Sarah Garcia,24,Female,2022-11-30,65463.5,Sales,3.0
+CUST_1793,Jessica Williams,43,Male,2022-12-02,129146.04,Human Resources,1.0
+CUST_1794,James Jones,73,Male,2022-03-12,59752.31,Human Resources,1.0
+CUST_1795,Laura Davis,39,Male,2022-12-04,73795.39,Marketing,3.0
+CUST_1796,Laura Davis,42,Male,2022-12-06,46271.18,Engineering,2.0
+CUST_1797,Michael Johnson,36,Male,2022-07-12,86763.39,Sales,4.0
+CUST_1798,Daniel Williams,48,Female,2022-12-08,72718.0,Human Resources,3.0
+CUST_1799,Michael Johnson,43,Male,2022-12-10,56525.8,Marketing,4.0
+CUST_1800,Emily Garcia,59,Female,2022-12-11,43189.0,Engineering,2.0
+CUST_1801,John Smith,58,Female,2022-12-12,32264.44,Marketing,3.0
+CUST_1802,David Jones,53,Male,2022-12-14,75468.0,Marketing,4.0
+CUST_1803,John Miller,40,Male,2022-12-15,30328.01,Operations,3.0
+CUST_1804,John Jones,64,Male,2022-12-16,97711.85,Operations,3.0
+CUST_1805,James Jones,30,Male,2022-03-21,33429.0,Human Resources,5.0
+CUST_1806,Jessica Garcia,42,Female,2022-12-19,129677.08,Human Resources,2.0
+CUST_1807,John Johnson,19,Male,2022-12-20,42961.47,Marketing,3.0
+CUST_1808,James Williams,19,Female,2022-12-22,65817.16,Marketing,4.0
+CUST_1809,Jessica Jones,33,Male,2022-12-23,65663.0,Human Resources,1.0
+CUST_1810,Sarah Davis,26,Male,2022-12-25,76120.07,Marketing,1.0
+CUST_1811,Emily Smith,45,Female,2022-12-26,26843.0,Human Resources,3.0
+CUST_1812,Emily Miller,30,Female,2022-12-27,45907.43,Human Resources,3.0
+CUST_1813,Daniel Davis,52,Male,2022-12-29,89263.69,Marketing,3.0
+CUST_1814,Daniel Williams,58,Male,2022-12-30,81463.79,Marketing,2.0
+CUST_1815,Jessica Garcia,30,Female,2022-12-31,20000.0,Human Resources,3.0
+CUST_1816,Emily Garcia,48,Male,2023-01-02,74430.74,Sales,3.0
+CUST_1817,Sarah Wilson,38,Male,2023-01-03,39188.0,Sales,3.0
+CUST_1818,James Rodriguez,49,Female,2023-01-04,50204.43,Sales,3.0
+CUST_1819,Laura Wilson,71,Female,2023-01-06,59316.81,Engineering,3.0
+CUST_1820,Emma Smith,51,Female,2023-01-07,103935.0,Operations,5.0
+CUST_1821,Sarah Miller,25,Female,2023-01-08,38933.0,Marketing,3.0
+CUST_1822,Emma Jones,44,Female,2023-01-10,29903.0,Marketing,4.0
+CUST_1823,James Jones,65,Female,2023-01-11,76258.0,Marketing,3.0
+CUST_1824,Sarah Wilson,19,Female,2023-12-01,64299.56,Human Resources,3.0
+CUST_1825,Emily Rodriguez,55,Female,2023-01-14,95175.0,Marketing,3.0
+CUST_1826,John Smith,49,Female,2023-01-15,56179.15,Sales,4.0
+CUST_1827,Daniel Williams,71,Male,2023-01-16,95270.43,Engineering,3.0
+CUST_1828,Emma Johnson,57,Male,2023-01-18,65407.0,Sales,4.0
+CUST_1829,James Williams,45,Female,2023-01-19,78228.0,Human Resources,5.0
+CUST_1830,Sarah Garcia,54,Female,2023-01-20,105599.0,Engineering,1.0
+CUST_1831,Emma Miller,58,Male,2023-01-22,60818.8,Engineering,1.0
+CUST_1832,Jessica Wilson,18,Female,2023-01-23,91116.66,Engineering,2.0
+CUST_1833,Daniel Davis,58,Male,2023-01-24,49660.04,Engineering,3.0
+CUST_1834,Jessica Brown,27,Female,2023-01-26,70688.0,Human Resources,2.0
+CUST_1835,James Miller,72,Female,2023-01-27,28883.52,Engineering,4.0
+CUST_1836,Emily Williams,21,Female,2023-01-28,52392.0,Human Resources,1.0
+CUST_1837,Emily Williams,52,Male,2023-01-30,38549.12,Operations,3.0
+CUST_1838,Sarah Jones,27,Female,2023-01-31,95519.0,Sales,2.0
+CUST_1839,Sarah Miller,44,Male,2023-02-01,108470.0,Engineering,5.0
+CUST_1840,Michael Miller,28,Male,2023-02-03,56132.45,Marketing,3.0
+CUST_1841,Emma Rodriguez,31,Male,2023-04-02,45674.05,Human Resources,5.0
+CUST_1842,John Miller,55,Female,2023-02-06,32151.0,Marketing,5.0
+CUST_1843,James Brown,29,Male,2023-02-07,71613.53,Marketing,3.0
+CUST_1844,Sarah Brown,62,Male,2023-02-08,49943.0,Operations,3.0
+CUST_1845,John Williams,34,Female,2023-02-10,51282.09,Engineering,2.0
+CUST_1846,Emma Rodriguez,33,Female,2023-02-11,105739.72,Operations,2.0
+CUST_1847,Emma Jones,52,Female,2023-02-12,57590.0,Human Resources,4.0
+CUST_1848,Jessica Williams,19,Female,2023-02-14,79666.24,Marketing,1.0
+CUST_1849,David Garcia,28,Male,2023-02-15,66324.0,Sales,1.0
+CUST_1850,Jessica Brown,58,Female,2023-02-16,31119.86,Sales,3.0
+CUST_2851,Sarah Rodriguez,20,Female,2023-02-18,20000.0,Marketing,3.0
+CUST_1852,John Smith,46,Male,2023-02-19,77188.05,Sales,3.0
+CUST_1853,Emily Davis,35,Male,2023-02-20,107602.76,Marketing,3.0
+CUST_1854,John Rodriguez,37,Male,2023-02-22,72874.69,Sales,4.0
+CUST_1855,Emily Williams,64,Male,2023-02-23,80602.0,Engineering,3.0
+CUST_1856,John Wilson,31,Female,2023-02-24,42382.34,Human Resources,2.0
+CUST_1857,Emily Rodriguez,51,Female,2023-02-26,90372.0,Marketing,4.0
+CUST_1858,Emma Miller,66,Female,2023-02-27,90062.61,Operations,5.0
+CUST_1859,Jessica Smith,71,Female,2023-02-28,47595.0,Sales,1.0
+CUST_1860,Emma Johnson,44,Male,2023-03-02,78635.0,Sales,3.0
+CUST_1861,Jessica Johnson,57,Female,2023-03-03,20839.55,Human Resources,3.0
+CUST_1862,Michael Brown,59,Male,2023-03-04,83097.8,Operations,2.0
+CUST_1863,David Rodriguez,35,Other,2023-06-03,50689.56,Human Resources,4.0
+CUST_1864,Emily Rodriguez,47,Male,2023-07-03,34321.77,Engineering,3.0
+CUST_1865,Emma Williams,42,Female,2023-03-08,75066.0,Marketing,4.0
+CUST_1866,Laura Smith,36,Male,2023-03-10,20707.0,Engineering,3.0
+CUST_1867,James Rodriguez,25,Male,2023-03-11,73560.34,Operations,3.0
+CUST_1868,Emma Johnson,45,Male,2023-03-12,36693.0,Engineering,2.0
+CUST_1869,Emily Garcia,25,Female,2023-03-14,31343.0,Engineering,2.0
+CUST_1870,Daniel Smith,48,Female,2023-03-15,66496.32,Engineering,1.0
+CUST_1871,David Davis,20,Male,2023-03-17,60686.22,Operations,3.0
+CUST_1872,Emily Smith,20,Female,2023-03-18,101419.74,Marketing,3.0
+CUST_1873,James Jones,61,Female,2023-03-19,32880.0,Marketing,3.0
+CUST_1874,Sarah Garcia,39,Female,2023-03-21,99376.36,Operations,3.0
+CUST_1875,Sarah Williams,34,Female,2023-03-22,36558.88,Operations,4.0
+CUST_1876,Emma Smith,53,Male,2023-03-23,64452.43,Engineering,3.0
+CUST_1877,Sarah Davis,34,Male,2023-03-25,92652.31,Operations,4.0
+CUST_1878,Emma Johnson,31,Female,2022-03-21,73036.0,Engineering,5.0
+CUST_1879,Jessica Williams,44,Female,2023-03-27,45226.15,Engineering,3.0
+CUST_1880,Emily Garcia,26,Other,2023-03-29,26926.14,Sales,4.0
+CUST_1881,Michael Wilson,47,Female,2023-03-30,20000.0,Marketing,3.0
+CUST_1882,Jessica Smith,38,Male,2023-03-31,111307.27,Operations,4.0
+CUST_1883,Daniel Garcia,29,Female,2023-02-04,57579.0,Sales,3.0
+CUST_1884,Laura Williams,54,Male,2023-04-03,37383.31,Engineering,3.0
+CUST_1885,Emma Smith,49,Female,2023-04-04,129677.08,Operations,2.0
+CUST_1886,James Miller,28,Male,2023-04-06,69196.56,Sales,1.0
+CUST_1887,James Davis,37,Female,2023-04-07,55128.7,Human Resources,3.0
+CUST_1888,John Smith,52,Female,2023-04-08,20000.0,Operations,5.0
+CUST_1889,Jessica Jones,70,Male,2023-04-10,86613.52,Engineering,4.0
+CUST_1890,James Johnson,64,Male,2023-04-11,73374.59,Operations,3.0
+CUST_2891,Laura Jones,63,Female,2023-12-04,110997.77,Marketing,4.0
+CUST_1892,Sarah Wilson,28,Female,2023-04-14,93519.79,Marketing,4.0
+CUST_1893,Jessica Wilson,69,Male,2023-04-15,20000.0,Human Resources,3.0
+CUST_1894,Laura Brown,25,Female,2023-04-16,100424.35,Marketing,1.0
+CUST_1895,Sarah Jones,21,Female,2023-04-18,95187.28,Marketing,2.0
+CUST_1896,Sarah Johnson,44,Male,2023-04-19,46590.68,Sales,4.0
+CUST_1897,Jessica Wilson,44,Male,2023-04-20,64452.43,Marketing,4.0
+CUST_1898,James Brown,57,Female,2023-04-22,75293.13,Operations,3.0
+CUST_1899,Jessica Davis,55,Female,2023-04-23,39644.62,Marketing,3.0
+CUST_1900,Jessica Garcia,64,Female,2023-04-25,58931.78,Marketing,4.0
+CUST_1901,Emily Smith,47,Female,2023-04-26,90001.0,Human Resources,5.0
+CUST_1902,Daniel Williams,61,Male,2023-04-27,77943.2,Sales,4.0
+CUST_1903,Jessica Johnson,65,Male,2023-04-29,48330.0,Human Resources,3.0
+CUST_1904,James Smith,65,Male,2023-04-30,90569.01,Operations,3.0
+CUST_1905,Jessica Miller,44,Male,2023-05-01,72572.38,Human Resources,3.0
+CUST_1906,David Jones,38,Female,2023-05-03,71718.0,Marketing,3.0
+CUST_1907,John Wilson,69,Female,2023-04-05,52126.69,Marketing,4.0
+CUST_1908,David Johnson,37,Male,2023-05-05,64836.54,Engineering,3.0
+CUST_1909,Daniel Williams,21,Female,2023-05-07,45648.0,Human Resources,4.0
+CUST_1910,Emily Williams,28,Female,2023-05-08,20000.0,Sales,3.0
+CUST_1911,Michael Brown,30,Female,2023-05-09,58005.0,Engineering,4.0
+CUST_1912,David Smith,44,Female,2023-05-11,61946.19,Engineering,3.0
+CUST_1913,Emily Garcia,44,Female,2023-12-05,68432.0,Engineering,3.0
+CUST_1914,Emma Davis,29,Female,2023-05-13,95304.0,Sales,3.0
+CUST_1915,James Jones,26,Female,2023-05-15,48692.88,Sales,3.0
+CUST_1916,Emma Brown,30,Male,2023-05-16,55806.0,Operations,5.0
+CUST_1917,Laura Rodriguez,65,Male,2023-05-17,84154.44,Human Resources,3.0
+CUST_1918,Daniel Davis,43,Male,2023-05-19,46186.95,Marketing,3.0
+CUST_1919,David Brown,55,Female,2023-05-20,68843.74,Sales,4.0
+CUST_1920,Emma Smith,59,Female,2023-05-21,54792.95,Sales,4.0
+CUST_1921,Emma Wilson,30,Female,2023-05-23,58909.0,Sales,3.0
+CUST_1922,Daniel Smith,56,Male,2023-05-24,83953.62,Human Resources,5.0
+CUST_1923,John Jones,45,Male,2023-05-25,64452.43,Sales,1.0
+CUST_1924,James Miller,36,Male,2023-05-27,84768.6,Engineering,2.0
+CUST_1925,Michael Williams,41,Male,2023-05-28,20000.0,Human Resources,3.0
+CUST_1926,Daniel Miller,36,Female,2023-05-29,29259.63,Human Resources,3.0
+CUST_1927,James Miller,66,Female,2023-05-31,20000.0,Operations,3.0
+CUST_1928,David Wilson,30,Other,2023-06-01,35856.0,Engineering,3.0
+CUST_1929,Daniel Smith,30,Female,2023-02-06,111421.0,Human Resources,3.0
+CUST_1930,Daniel Williams,45,Female,2023-04-06,64562.0,Sales,4.0
+CUST_1931,James Miller,70,Female,2023-06-05,46967.0,Sales,3.0
+CUST_1932,James Jones,19,Male,2023-06-07,84570.17,Human Resources,5.0
+CUST_1933,Daniel Brown,27,Female,2023-06-08,88100.28,Sales,4.0
+CUST_1934,Daniel Smith,44,Female,2023-06-09,34479.0,Marketing,3.0
+CUST_1935,Daniel Garcia,30,Female,2023-06-11,127455.0,Operations,3.0
+CUST_1936,David Johnson,26,Male,2023-06-12,71908.27,Operations,3.0
+CUST_1937,David Miller,50,Male,2023-06-13,75058.8,Marketing,4.0
+CUST_1938,Sarah Miller,31,Male,2023-06-15,77430.83,Operations,3.0
+CUST_1939,Jessica Smith,65,Female,2023-06-16,77378.45,Human Resources,3.0
+CUST_1940,John Wilson,37,Male,2023-06-17,49463.0,Sales,5.0
+CUST_1941,Michael Wilson,44,Female,2023-06-19,117812.98,Human Resources,3.0
+CUST_1942,Unknown Client,49,Female,2023-06-20,57870.29,Operations,2.0
+CUST_1943,Emily Johnson,50,Male,2023-06-21,88937.94,Marketing,2.0
+CUST_1944,James Wilson,34,Female,2023-06-23,53127.0,Marketing,4.0
+CUST_1945,Daniel Davis,41,Female,2023-06-24,64452.43,Human Resources,4.0
+CUST_1946,Jessica Williams,47,Male,2023-06-25,112547.0,Engineering,3.0
+CUST_1947,Jessica Garcia,30,Female,2023-06-27,62290.72,Sales,3.0
+CUST_1948,Laura Rodriguez,44,Male,2023-06-28,64147.0,Operations,4.0
+CUST_1949,John Smith,65,Male,2023-06-29,72090.0,Marketing,4.0
+CUST_1950,Michael Williams,33,Female,2023-07-01,129677.08,Sales,4.0
+CUST_1951,Emma Garcia,19,Female,2023-07-02,119219.0,Marketing,3.0
+CUST_1952,Emma Smith,34,Female,2023-03-07,97094.57,Marketing,5.0
+CUST_1953,Sarah Johnson,49,Female,2023-05-07,129677.08,Marketing,3.0
+CUST_1954,Michael Miller,60,Female,2023-07-06,41385.58,Marketing,2.0
+CUST_1955,John Johnson,44,Female,2023-07-07,81397.1,Marketing,4.0
+CUST_1956,John Jones,69,Female,2023-07-09,66896.0,Engineering,3.0
+CUST_1957,Daniel Garcia,20,Female,2023-07-10,20773.0,Engineering,4.0
+CUST_1958,Emma Smith,29,Male,2023-07-11,76577.0,Operations,2.0
+CUST_1959,Daniel Jones,37,Female,2023-07-13,52729.34,Engineering,4.0
+CUST_1960,Emma Smith,33,Male,2023-07-14,103337.52,Engineering,3.0
+CUST_1961,Michael Davis,31,Female,2023-07-16,55124.45,Sales,3.0
+CUST_1962,Emma Smith,44,Male,2023-07-17,53702.7,Human Resources,1.0
+CUST_1963,Daniel Jones,70,Female,2023-07-18,103326.72,Operations,3.0
+CUST_1964,John Smith,44,Male,2023-07-20,63363.65,Operations,4.0
+CUST_1965,John Rodriguez,60,Male,2023-07-21,94071.94,Engineering,3.0
+CUST_1966,Michael Jones,66,Female,2023-07-22,64452.43,Sales,2.0
+CUST_1967,Emma Rodriguez,68,Male,2023-07-24,75944.29,Marketing,3.0
+CUST_1968,Jessica Rodriguez,71,Female,2023-07-25,58899.0,Marketing,4.0
+CUST_1969,Laura Garcia,50,Male,2023-07-26,77555.25,Marketing,3.0
+CUST_1970,John Rodriguez,47,Male,2023-07-28,61712.7,Marketing,3.0
+CUST_1971,Jessica Rodriguez,29,Male,2023-07-29,44905.0,Sales,3.0
+CUST_1972,Michael Williams,32,Female,2023-07-30,62394.0,Marketing,5.0
+CUST_1973,Jessica Rodriguez,35,Male,2023-08-01,97195.77,Engineering,3.0
+CUST_1974,Daniel Williams,45,Female,2023-02-08,78400.23,Engineering,1.0
+CUST_1975,Michael Johnson,40,Male,2023-03-08,84211.02,Marketing,4.0
+CUST_1976,James Williams,31,Male,2023-05-08,65037.0,Engineering,4.0
+CUST_1977,David Rodriguez,47,Male,2023-08-06,20000.0,Sales,2.0
+CUST_1978,Laura Johnson,50,Male,2023-08-07,34464.29,Marketing,5.0
+CUST_1979,Michael Johnson,62,Female,2023-08-09,57774.86,Marketing,3.0
+CUST_1980,Laura Miller,32,Female,2023-08-10,36623.0,Operations,3.0
+CUST_1981,Jessica Rodriguez,24,Female,2023-08-11,51891.06,Human Resources,3.0
+CUST_1982,Laura Brown,32,Male,2023-08-13,50986.0,Human Resources,4.0
+CUST_1983,Emily Rodriguez,69,Male,2023-08-14,51739.78,Marketing,3.0
+CUST_1984,John Johnson,59,Male,2023-08-15,100929.25,Human Resources,3.0
+CUST_1985,Sarah Miller,63,Female,2023-08-17,63675.54,Operations,2.0
+CUST_1986,Emily Wilson,55,Male,2023-08-18,88366.75,Human Resources,4.0
+CUST_1987,Michael Williams,63,Female,2023-08-19,69098.62,Sales,3.0
+CUST_1988,Michael Miller,73,Male,2023-08-21,100394.0,Human Resources,3.0
+CUST_1989,Laura Davis,74,Male,2023-08-22,90524.0,Human Resources,3.0
+CUST_1990,Emily Brown,71,Male,2023-08-24,50212.0,Engineering,3.0
+CUST_1991,Emma Johnson,61,Male,2023-08-25,114040.74,Operations,4.0
+CUST_1992,John Rodriguez,44,Female,2023-08-26,53636.94,Human Resources,3.0
+CUST_1993,Sarah Garcia,46,Male,2023-08-28,70000.02,Sales,4.0
+CUST_1994,James Brown,48,Female,2023-08-29,74426.0,Marketing,3.0
+CUST_1995,Laura Rodriguez,42,Male,2023-08-30,77209.12,Engineering,4.0
+CUST_1996,Emma Wilson,69,Female,2023-01-09,84904.5,Engineering,1.0
+CUST_1997,David Davis,71,Male,2023-09-02,46080.39,Marketing,3.0
+CUST_2998,Emma Brown,41,Female,2023-03-09,82808.38,Operations,5.0
+CUST_1999,John Williams,74,Female,2023-09-05,79528.64,Operations,5.0
+CUST_2000,David Williams,36,Other,2023-09-06,65012.0,Sales,3.0
+CUST_2001,Unknown Client,19,Male,2023-07-09,60256.0,Operations,3.0
+CUST_2002,Jessica Wilson,39,Female,2023-09-09,44797.0,Operations,1.0
+CUST_2003,John Davis,37,Male,2023-09-10,77009.0,Operations,4.0
+CUST_2004,Michael Jones,50,Male,2023-09-11,48488.0,Marketing,3.0
+CUST_2005,Emma Brown,25,Male,2023-09-13,70947.02,Marketing,3.0
+CUST_2006,Emma Jones,42,Male,2023-09-14,62466.77,Engineering,2.0
+CUST_2007,David Miller,63,Female,2023-09-15,31646.0,Human Resources,5.0
+CUST_2008,Emma Wilson,26,Male,2023-09-17,41664.04,Marketing,3.0
+CUST_2009,Jessica Garcia,51,Female,2023-09-18,75119.4,Human Resources,3.0
+CUST_2010,Laura Rodriguez,74,Female,2023-09-19,51892.05,Sales,3.0
+CUST_2011,Laura Johnson,40,Female,2023-09-21,51039.5,Sales,3.0
+CUST_2012,Emma Smith,22,Female,2023-09-22,45901.31,Marketing,3.0
+CUST_2013,Emma Johnson,72,Male,2023-09-23,46749.71,Sales,5.0
+CUST_2014,Sarah Williams,42,Female,2023-09-25,106066.66,Human Resources,4.0
+CUST_2015,Emma Davis,25,Male,2023-09-26,37002.0,Human Resources,3.0
+CUST_2016,Sarah Smith,33,Female,2023-09-27,101822.58,Sales,4.0
+CUST_2017,Jessica Rodriguez,71,Female,2023-09-29,56732.0,Engineering,3.0
+CUST_2018,Michael Miller,65,Other,2023-09-30,48656.14,Operations,3.0
+CUST_2019,Michael Smith,62,Male,2023-10-01,74595.59,Marketing,5.0
+CUST_2020,David Wilson,69,Male,2023-10-03,66326.02,Operations,3.0
+CUST_2021,Emily Davis,32,Male,2023-10-04,60062.5,Marketing,3.0
+CUST_2022,Jessica Wilson,44,Male,2022-03-21,70497.0,Marketing,5.0
+CUST_2023,Daniel Jones,39,Male,2023-10-07,65930.0,Marketing,2.0
+CUST_2024,Emily Davis,20,Female,2023-10-08,59610.0,Sales,3.0
+CUST_2025,Daniel Miller,55,Male,2023-10-10,88392.0,Human Resources,5.0
+CUST_2026,Laura Brown,71,Female,2023-10-11,28825.58,Marketing,3.0
+CUST_2027,Unknown Client,31,Female,2023-10-12,42133.38,Sales,1.0
+CUST_2028,Emily Smith,53,Female,2022-03-21,45294.62,Engineering,3.0
+CUST_2029,Laura Smith,35,Male,2023-10-15,38551.58,Engineering,2.0
+CUST_2030,David Miller,64,Male,2022-03-21,67148.17,Operations,3.0
+CUST_2031,Jessica Jones,58,Male,2023-10-18,77635.49,Operations,3.0
+CUST_2032,Michael Jones,35,Male,2023-10-19,20000.0,Marketing,3.0
+CUST_2033,Laura Johnson,20,Female,2023-10-20,53148.67,Engineering,3.0
+CUST_2034,Unknown Client,27,Male,2023-10-22,56958.41,Sales,3.0
+CUST_2035,Laura Garcia,66,Female,2023-10-23,57854.0,Marketing,3.0
+CUST_2036,Laura Davis,56,Female,2023-10-24,32872.8,Human Resources,4.0
+CUST_2037,Laura Miller,64,Female,2023-10-26,57167.0,Sales,3.0
+CUST_3038,Sarah Johnson,18,Male,2023-10-27,42222.0,Sales,4.0
+CUST_2039,Laura Smith,44,Male,2023-10-28,56640.57,Human Resources,3.0
+CUST_2040,Jessica Miller,74,Female,2023-10-30,22009.31,Human Resources,3.0
+CUST_2041,Emily Wilson,44,Female,2023-10-31,56811.01,Sales,3.0
+CUST_2042,Michael Williams,28,Male,2023-11-01,47024.0,Engineering,3.0
+CUST_2043,John Williams,66,Male,2023-11-03,58438.0,Sales,3.0
+CUST_2044,Emily Jones,22,Male,2023-04-11,72519.82,Marketing,3.0
+CUST_2045,Michael Miller,24,Female,2023-11-05,63881.62,Human Resources,5.0
+CUST_2046,David Williams,36,Male,2023-07-11,64452.43,Marketing,3.0
+CUST_2047,Jessica Miller,74,Female,2023-11-08,55980.84,Sales,5.0
+CUST_2048,Laura Johnson,73,Male,2023-11-09,80472.0,Operations,1.0
+CUST_2049,John Brown,46,Female,2023-11-11,93124.68,Human Resources,3.0
+CUST_2050,Daniel Wilson,32,Female,2023-11-12,71843.99,Operations,1.0
+CUST_2051,Michael Williams,52,Female,2023-11-14,64480.0,Operations,3.0
+CUST_2052,David Jones,64,Male,2022-03-21,75359.0,Marketing,4.0
+CUST_2053,Emma Williams,54,Male,2023-11-16,72727.0,Engineering,1.0
+CUST_2054,James Brown,72,Male,2023-11-18,90031.08,Sales,3.0
+CUST_2055,Michael Johnson,29,Female,2023-11-19,84844.99,Human Resources,2.0
+CUST_2056,Emma Rodriguez,47,Female,2023-11-20,85146.0,Operations,3.0
+CUST_2057,Emily Williams,37,Female,2023-11-22,66100.65,Engineering,4.0
+CUST_2058,Daniel Garcia,54,Male,2023-11-23,73530.67,Human Resources,3.0
+CUST_2059,Sarah Davis,20,Female,2023-11-24,73063.0,Operations,4.0
+CUST_2060,Unknown Client,26,Male,2023-11-26,34815.51,Marketing,3.0
+CUST_2061,Michael Jones,58,Female,2023-11-27,91722.9,Engineering,5.0
+CUST_2062,Sarah Brown,56,Male,2023-11-28,23268.0,Marketing,4.0
+CUST_2063,Jessica Smith,43,Female,2023-11-30,64452.43,Engineering,3.0
+CUST_2064,Emma Brown,19,Male,2023-12-01,71674.9,Operations,3.0
+CUST_2065,Jessica Rodriguez,40,Male,2023-12-02,57892.79,Sales,5.0
+CUST_2066,Sarah Davis,40,Female,2023-12-04,74780.0,Human Resources,3.0
+CUST_2067,Jessica Johnson,38,Male,2023-12-05,75464.0,Marketing,3.0
+CUST_2068,Laura Davis,33,Female,2023-12-06,32305.0,Engineering,3.0
+CUST_2069,David Jones,44,Female,2023-12-08,100403.16,Sales,2.0
+CUST_2070,Daniel Rodriguez,30,Female,2023-09-12,66803.45,Operations,4.0
+CUST_2071,James Rodriguez,45,Male,2023-12-10,122868.31,Operations,3.0
+CUST_2072,Jessica Wilson,44,Female,2023-12-12,84744.0,Marketing,3.0
+CUST_2073,Jessica Williams,68,Female,2023-12-13,66235.0,Operations,3.0
+CUST_2074,John Davis,69,Male,2023-12-14,47749.02,Operations,2.0
+CUST_2075,Emily Smith,34,Female,2023-12-16,62229.01,Operations,4.0
+CUST_2076,Laura Miller,55,Male,2023-12-17,68745.77,Human Resources,5.0
+CUST_2077,Jessica Johnson,53,Male,2023-12-18,64452.43,Human Resources,4.0
+CUST_2078,John Johnson,18,Male,2023-12-20,95666.0,Sales,3.0
+CUST_2079,Emily Johnson,35,Male,2023-12-21,64452.43,Engineering,3.0
+CUST_2080,John Davis,68,Male,2023-12-23,109229.78,Operations,4.0
+CUST_2081,Laura Miller,26,Female,2023-12-24,20000.0,Operations,3.0
+CUST_2082,Emily Miller,30,Female,2023-12-25,76569.68,Engineering,3.0
+CUST_2083,Michael Garcia,57,Female,2023-12-27,96391.0,Operations,5.0
+CUST_2084,Emma Johnson,72,Female,2023-12-28,78686.0,Engineering,3.0
+CUST_2085,David Smith,62,Female,2023-12-29,31679.8,Operations,3.0
+CUST_2086,Jessica Johnson,32,Female,2023-12-31,99736.08,Operations,1.0
+CUST_2087,Emily Miller,60,Female,2024-01-01,84034.0,Sales,1.0
+CUST_2088,Emma Garcia,61,Female,2024-01-02,73575.3,Marketing,1.0
+CUST_2089,Laura Miller,63,Male,2024-01-04,129677.08,Human Resources,5.0
+CUST_2090,Emily Garcia,21,Male,2024-01-05,114843.0,Engineering,3.0
+CUST_2091,Laura Wilson,50,Male,2024-01-06,76113.0,Operations,3.0
+CUST_2092,John Brown,41,Female,2024-08-01,58952.0,Marketing,4.0
+CUST_2093,Emily Davis,53,Male,2024-01-09,44715.54,Marketing,3.0
+CUST_2094,Daniel Garcia,68,Female,2024-01-10,83938.23,Engineering,3.0
+CUST_2095,David Davis,58,Male,2024-01-12,89655.83,Operations,3.0
+CUST_2096,Laura Rodriguez,27,Female,2022-03-21,66412.89,Operations,4.0
+CUST_2097,Michael Williams,53,Male,2024-01-14,51056.0,Marketing,2.0
+CUST_2098,Emily Jones,37,Male,2024-01-16,98251.41,Operations,1.0
+CUST_2099,Emma Smith,58,Male,2024-01-17,42815.0,Marketing,2.0
+CUST_2100,Daniel Rodriguez,62,Male,2024-01-18,114236.13,Engineering,3.0
+CUST_2101,Laura Jones,61,Male,2024-01-20,46636.65,Engineering,3.0
+CUST_2102,Emily Davis,44,Female,2024-01-21,64452.43,Marketing,3.0
+CUST_2103,David Davis,29,Male,2024-01-22,36240.83,Human Resources,2.0
+CUST_2104,John Smith,44,Male,2024-01-24,37256.98,Marketing,3.0
+CUST_2105,Emma Williams,44,Female,2024-01-25,59085.1,Sales,2.0
+CUST_2106,Sarah Johnson,61,Male,2024-01-26,53295.69,Sales,2.0
+CUST_2107,Daniel Wilson,65,Female,2024-01-28,90616.0,Marketing,3.0
+CUST_2108,Sarah Brown,54,Female,2024-01-29,87051.87,Marketing,5.0
+CUST_2109,Sarah Miller,37,Male,2022-03-21,59412.0,Marketing,3.0
+CUST_2110,Laura Wilson,42,Male,2024-02-01,129677.08,Engineering,5.0
+CUST_2111,Emily Jones,29,Male,2024-02-02,59080.97,Sales,3.0
+CUST_2112,Emily Williams,38,Female,2024-04-02,62412.09,Engineering,3.0
+CUST_2113,David Rodriguez,42,Female,2024-02-05,33064.55,Marketing,3.0
+CUST_2114,Laura Garcia,28,Female,2024-02-06,62986.49,Operations,3.0
+CUST_2115,Laura Garcia,26,Female,2024-02-08,72435.02,Sales,2.0
+CUST_2116,Daniel Garcia,67,Male,2024-02-09,35394.0,Human Resources,3.0
+CUST_2117,Laura Garcia,42,Female,2024-10-02,52532.71,Marketing,3.0
+CUST_2118,Emma Davis,52,Female,2024-02-12,73175.0,Engineering,3.0
+CUST_2119,John Brown,69,Female,2024-02-13,51879.0,Sales,3.0
+CUST_2120,Emily Jones,49,Female,2024-02-14,46646.0,Engineering,2.0
+CUST_2121,Emma Miller,66,Female,2024-02-16,84553.33,Human Resources,3.0
+CUST_2122,Emily Johnson,31,Male,2024-02-17,32947.15,Engineering,1.0
+CUST_2123,Jessica Garcia,18,Male,2022-03-21,64452.43,Engineering,5.0
+CUST_3124,Laura Davis,34,Female,2024-02-20,69434.48,Engineering,2.0
+CUST_2125,Jessica Johnson,42,Male,2024-02-21,86154.0,Engineering,3.0
+CUST_2126,Daniel Jones,25,Female,2024-02-22,72638.1,Sales,4.0
+CUST_2127,Jessica Wilson,22,Male,2024-02-24,59402.82,Engineering,3.0
+CUST_2128,Laura Garcia,22,Female,2022-03-21,57365.0,Operations,2.0
+CUST_2129,Michael Davis,58,Female,2024-02-26,90261.0,Engineering,3.0
+CUST_2130,John Smith,52,Female,2024-02-28,86475.0,Sales,2.0
+CUST_2131,Daniel Wilson,36,Female,2024-02-29,66246.0,Sales,2.0
+CUST_2132,James Davis,40,Female,2024-03-01,58059.53,Sales,1.0
+CUST_2133,Emma Jones,26,Female,2024-03-03,65881.8,Marketing,3.0
+CUST_2134,Laura Johnson,71,Female,2024-03-04,46820.0,Marketing,4.0
+CUST_2135,James Miller,47,Male,2024-03-05,61245.61,Marketing,3.0
+CUST_2136,James Johnson,67,Male,2024-03-07,52762.0,Marketing,3.0
+CUST_2137,Michael Garcia,33,Male,2024-03-08,62478.88,Operations,2.0
+CUST_2138,John Wilson,50,Female,2024-03-09,53657.89,Sales,3.0
+CUST_2139,Daniel Davis,19,Other,2024-03-11,78098.8,Operations,4.0
+CUST_2140,John Rodriguez,31,Female,2024-12-03,85460.13,Marketing,2.0
+CUST_2141,Laura Brown,63,Female,2024-03-14,55507.0,Human Resources,4.0
+CUST_2142,Emma Jones,18,Female,2024-03-15,44703.0,Human Resources,3.0
+CUST_2143,Sarah Rodriguez,43,Male,2024-03-16,82790.54,Engineering,4.0
+CUST_2144,Jessica Williams,42,Female,2024-03-18,69618.97,Marketing,3.0
+CUST_2145,Daniel Rodriguez,33,Male,2024-03-19,55831.6,Operations,3.0
+CUST_2146,Michael Johnson,32,Female,2022-03-21,99388.8,Engineering,4.0
+CUST_2147,Daniel Davis,43,Male,2022-03-21,50874.14,Sales,4.0
+CUST_2148,Emily Rodriguez,64,Male,2024-03-23,20000.0,Operations,2.0
+CUST_2149,Laura Smith,61,Female,2024-03-24,47301.02,Marketing,5.0
+CUST_2150,John Jones,44,Female,2024-03-26,105459.46,Sales,2.0
+CUST_2151,Jessica Williams,31,Female,2024-03-27,57057.41,Marketing,1.0
+CUST_2152,James Wilson,46,Female,2024-03-28,52114.02,Human Resources,3.0
+CUST_2153,Jessica Brown,41,Male,2024-03-30,65665.08,Engineering,4.0
+CUST_2154,Daniel Garcia,64,Female,2024-03-31,90276.58,Sales,5.0
+CUST_2155,James Miller,72,Male,2024-04-01,62927.5,Marketing,3.0
+CUST_2156,Jessica Garcia,32,Female,2024-04-03,79784.0,Sales,1.0
+CUST_2157,Unknown Client,36,Female,2024-04-04,60268.34,Human Resources,3.0
+CUST_2158,Michael Miller,25,Male,2024-04-05,79980.0,Operations,3.0
+CUST_2159,Sarah Miller,51,Female,2024-04-07,69506.57,Marketing,3.0
+CUST_2160,Jessica Garcia,19,Female,2024-04-08,55050.0,Sales,3.0
+CUST_2161,Daniel Garcia,44,Male,2024-04-09,71452.3,Marketing,1.0
+CUST_2162,James Miller,27,Female,2024-04-11,51437.0,Human Resources,3.0
+CUST_2163,Michael Wilson,52,Female,2024-12-04,30545.29,Human Resources,3.0
+CUST_2164,Michael Smith,40,Female,2024-04-13,64503.0,Operations,3.0
+CUST_2165,David Brown,66,Male,2024-04-15,32765.64,Sales,3.0
+CUST_2166,James Rodriguez,25,Male,2024-04-16,79935.74,Operations,2.0
+CUST_2167,David Wilson,44,Female,2024-04-17,64063.0,Engineering,2.0
+CUST_2168,Emily Davis,40,Male,2024-04-19,100582.3,Engineering,3.0
+CUST_2169,Jessica Brown,21,Female,2024-04-20,56744.0,Human Resources,2.0
+CUST_2170,Emma Johnson,31,Male,2024-04-22,64499.32,Marketing,3.0
+CUST_2171,John Brown,70,Female,2024-04-23,28259.35,Marketing,5.0
+CUST_2172,Emily Smith,59,Female,2024-04-24,37398.0,Sales,3.0
+CUST_2173,Jessica Brown,46,Male,2024-04-26,23031.93,Marketing,3.0
+CUST_2174,John Smith,44,Male,2024-04-27,91937.35,Marketing,3.0
+CUST_2175,John Garcia,21,Female,2024-04-28,53511.0,Engineering,3.0
+CUST_2176,Emma Garcia,49,Female,2024-04-30,98177.0,Marketing,5.0
+CUST_2177,Sarah Davis,50,Male,2024-05-01,20000.0,Human Resources,5.0
+CUST_2178,Laura Garcia,66,Female,2024-05-02,103701.86,Human Resources,3.0
+CUST_2179,Emma Davis,43,Male,2024-05-04,63299.43,Marketing,3.0
+CUST_2180,David Smith,34,Male,2024-05-05,73496.18,Marketing,4.0
+CUST_2181,James Davis,56,Female,2024-05-06,38426.43,Engineering,2.0
+CUST_2182,Sarah Miller,40,Male,2024-05-08,78182.0,Human Resources,4.0
+CUST_2183,Sarah Smith,49,Female,2024-05-09,55652.15,Human Resources,4.0
+CUST_2184,Daniel Johnson,69,Male,2024-05-10,35151.14,Engineering,2.0
+CUST_2185,Sarah Jones,32,Male,2024-05-12,34808.34,Marketing,5.0
+CUST_2186,David Davis,30,Male,2024-05-13,34366.0,Sales,5.0
+CUST_2187,John Garcia,19,Female,2024-05-14,74506.0,Operations,5.0
+CUST_2188,Michael Brown,36,Female,2024-05-16,49109.0,Operations,3.0
+CUST_2189,James Brown,41,Female,2024-05-17,23997.66,Engineering,3.0
+CUST_2190,Unknown Client,62,Male,2024-05-18,74232.0,Engineering,3.0
+CUST_2191,Daniel Brown,41,Male,2022-03-21,20000.0,Human Resources,3.0
+CUST_2192,John Rodriguez,28,Female,2024-05-21,98226.8,Marketing,2.0
+CUST_2193,Emily Rodriguez,39,Male,2024-05-22,114660.26,Marketing,3.0
+CUST_2194,Jessica Smith,32,Female,2022-03-21,32189.41,Marketing,3.0
+CUST_2195,Michael Johnson,27,Male,2024-05-25,91311.27,Sales,1.0
+CUST_2196,James Smith,44,Female,2024-05-26,73727.0,Operations,3.0
+CUST_2197,James Rodriguez,44,Male,2024-05-28,52499.03,Engineering,1.0
+CUST_2198,Laura Garcia,26,Female,2024-05-29,53665.69,Operations,4.0
+CUST_2199,John Garcia,69,Male,2024-05-31,81362.0,Operations,3.0
