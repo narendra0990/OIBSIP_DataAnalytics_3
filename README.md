@@ -13,11 +13,16 @@ This project builds a systematic data cleaning and transformation pipeline that 
 
 ## 📁 Repository Structure
 ```text
+├── charts/
+│   ├── missing_values_audit_comparison.png
+│   └── outlier_treatment_before_after.png
 ├── data/
 │   ├── raw_dirty_dataset.csv
 │   └── cleaned_dataset.csv
 ├── notebooks/
 │   └── data_cleaning_pipeline.ipynb
+├── report/
+│   └── findings_and_recommendations.md
 ├── run_cleaning.py
 ├── requirements.txt
 └── README.md
@@ -25,11 +30,18 @@ This project builds a systematic data cleaning and transformation pipeline that 
 
 ---
 
-## 📊 Before vs. After Quality Summary
-- **Duplicates**: 65 duplicate records detected and purged.
-- **Null Values**: Total missing values reduced from 363 to 0 via median & mode imputation.
-- **Outliers**: Extreme income anomalies capped using Interquartile Range (IQR) boundaries.
-- **Schema**: Enforced strict data types across datetime, numeric floats, and categorical attributes.
+## 📈 Quality Audit Visualizations
+
+### 1. Missing Value Audit (Before vs. After)
+![Missing Values Comparison](charts/missing_values_audit_comparison.png)
+
+### 2. Outlier Treatment & Distribution Sanitization
+![Outlier Treatment](charts/outlier_treatment_before_after.png)
+
+---
+
+## 📄 Technical Audit Report
+For the complete Before-vs-After data quality audit metrics, see **[report/findings_and_recommendations.md](report/findings_and_recommendations.md)**.
 
 ---
 
